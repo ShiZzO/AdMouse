@@ -10,4 +10,4 @@
 
 # Description
 
-In total: 777000 of adware, malware, phishing, scam, advertising, tracking, CPA, analytics, crashlytics, spyware, adult and gambling sites. The file is updated once a week, every friday. Feel free to sent me a pull requests with false positive blocks and more domains which need to be blocked. Any feedback will be pleased!
+Totally 777000 of adware, malware, phishing, scam, advertising, tracking, CPA, analytics, crashlytics, spyware, adult and gambling sites. The file is updated once a week, every friday. Feel free to sent me a pull requests with false positive blocks and more domains which need to be blocked. Any feedback will be pleased!
