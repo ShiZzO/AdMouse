@@ -16,7 +16,7 @@ Totally 777000 of adware, malware and spyware, phishing and spam, fake and scam,
 
 Feel free to sent me issues with false positive blocks and more domains which need to be blocked. Any feedback will be pleased!
 
-# Attention:
+# Note:
 
 If you use Xbox Live, then these hosts have to be whitelisted or you will not get achievements:
 
