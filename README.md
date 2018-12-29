@@ -12,7 +12,7 @@
 
 Totally 777000 of adware, malware and spyware, phishing and spam, fake and scam, advertising and banner networks, tracking and telemetry, CPA, analytics and crashlytics, adult and gambling, cryptojacking and mining hosts, illegal pharmacy selling. The file is updated regularly.
 
-<b>It is recommended to use together with <a href="https://github.com/AdguardTeam/AdGuardDNS">AdGuard DNS</a> over TLS (for upstream queries), <a href="https://kazoo.ga/pixelserv-tls/">Pixelserv-TLS</a> and <a href="https://github.com/AdguardTeam/AdGuardDNS">AdGuard</a> or <a href="https://github.com/gorhill/uBlock/">uBlock Origin</a>.
+<b>It is recommended to use together with <a href="https://github.com/AdguardTeam/AdGuardDNS">AdGuard DNS</a> over TLS (for upstream queries), <a href="https://kazoo.ga/pixelserv-tls/">Pixelserv-TLS</a> and <a href="https://adguard.com/en/welcome.html#products">AdGuard</a> or <a href="https://github.com/gorhill/uBlock/">uBlock Origin</a>.
 
 For users of ASUSWRT-Merlin and Diversion i recommend to use the <a href="https://github.com/Xentrk/Stubby-Installer-Asuswrt-Merlin">Stubby installation script</a> from Xentrk.</b>
 
