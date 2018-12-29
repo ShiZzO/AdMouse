@@ -14,7 +14,7 @@ Totally 777000 of adware, malware and spyware, phishing and spam, fake and scam,
 
 <b>It is recommended to use together with <a href="https://github.com/AdguardTeam/AdGuardDNS">AdGuard DNS</a> over TLS (for upstream queries), <a href="https://kazoo.ga/pixelserv-tls/">Pixelserv-TLS</a> and <a href="https://adguard.com/en/welcome.html#products">AdGuard</a> or <a href="https://github.com/gorhill/uBlock/">uBlock Origin</a>.
 
-For users of <a href="https://asuswrt.lostrealm.ca/">ASUSWRT-Merlin</a> and Diversion i recommend to use the <a href="https://github.com/Xentrk/Stubby-Installer-Asuswrt-Merlin">Stubby installation script</a> from Xentrk.</b>
+For users of <a href="https://asuswrt.lostrealm.ca/">ASUSWRT-Merlin</a> and Diversion i recommend to use the <a href="https://github.com/Xentrk/Stubby-Installer-Asuswrt-Merlin">Stubby</a> installation script from Xentrk.</b>
 
 Feel free to sent me issues with false positive blocks and more domains which need to be blocked. Any feedback will be pleased!
 
