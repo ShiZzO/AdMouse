@@ -1,8 +1,8 @@
 <p align="center">
-<img src="https://github.com/ShiZzO/777hosts/blob/master/logo.png" />
+<img src="https://github.com/ShiZzO/AdMouse/blob/master/logo.png" />
 </p>
 
-<h1 align="center">777hosts</h1>
+<h1 align="center">AdMouse</h1>
 
 <p align="center">The repository contains hosts file for <a href="https://diversion.ch">Diversion</a>, <a href="https://pi-hole.net">Pi-hole</a> and <a href="https://adguard.com/ru/adguard-home.html">AdGuard Home</a> solutions.</p>
 
@@ -10,7 +10,7 @@
 
 # Description:
 
-In total 777777 hosts of adware, malware and spyware, phishing and spam, fake and scam, advertising and banner networks, tracking and telemetry, CPA, analytics and crashlytics, adult and gambling, cryptojacking and mining hosts, illegal pharmacy selling. The file is updated regularly.
+About 800000 hosts of adware, malware and spyware, phishing and spam, fake and scam, advertising and banner networks, tracking and telemetry, CPA, analytics and crashlytics, adult and gambling, cryptojacking and mining hosts, illegal pharmacy selling. The file is updated regularly.
 
 <b>It is recommended to use together with <a href="https://github.com/AdguardTeam/AdGuardDNS">AdGuard DNS</a> over TLS (for upstream queries), <a href="https://kazoo.ga/pixelserv-tls/">Pixelserv-TLS</a> and <a href="https://adguard.com/en/welcome.html#products">AdGuard</a> or <a href="https://github.com/gorhill/uBlock/">uBlock Origin</a>.
 
