@@ -20,7 +20,7 @@ Feel free to sent me issues with false positive blocks and more domains which ne
 
 # Note:
 
-If you use Xbox Live, then these hosts have to be whitelisted or you will not get achievements:
+If you use Xbox Live, then these hosts have to be whitelisted/removed or you will not get achievements:
 
 - v10.vortex-win.data.microsoft.com
 - v20.vortex-win.data.microsoft.com
