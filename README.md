@@ -27,5 +27,6 @@ If you use Xbox Live, then these hosts have to be whitelisted/removed or you wil
 - mobile.pipe.aria.microsoft.com
 - settings-win.data.microsoft.com
 - v10.events.data.microsoft.com
+- v20.events.data.microsoft.com
 
 <b><a href="http://www.wtfpl.net">License: Do What The Fuck You Want To Public License (WTFPL)</a></b>
