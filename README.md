@@ -1,5 +1,5 @@
 <p align="center">
-<img src="http://admouse.github.io/AdMouse/admouse_logo.png" />
+<img src="http://admouse.github.io/AdMouse/ammonite_logo.png" />
 </p>
 
 <h1 align="center">AdMouse</h1>
