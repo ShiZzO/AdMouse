@@ -1,8 +1,8 @@
 <p align="center">
-<img src="http://admouse.github.io/AdMouse/ammonite_logo.png" />
+<img src="https://happyzomb.github.io/Ammonite/ammonite_logo.png" />
 </p>
 
-<h1 align="center">AdMouse</h1>
+<h1 align="center">Ammonite</h1>
 
 <p align="center">The repository contains hosts file for <a href="https://diversion.ch">Diversion</a>, <a href="https://pi-hole.net">Pi-hole</a>, <a href="https://adguard.com/en/adguard-home.html">AdGuard Home</a> and <a href="https://www.pfsense.org/">pfSense</a> with <a href="https://www.tecmint.com/install-configure-pfblockerng-dns-black-listing-in-pfsense/">pfBlockerNG</a>.</p>
 
@@ -10,7 +10,7 @@
 
 # Description:
 
-About <b><a href="http://admouse.github.io/AdMouse/hosts.txt">834000 hosts</a></b> of adware, ransomware, malware and spyware, phishing and spam, sponsor and redirect, fake and scam, advertising and banner networks, tracking and telemetry, CPA, analytics and metrics, NSFW and gambling, mining, cryptojacking and illegal pharmacy selling hosts. The file is updated regularly.
+About <b><a href="https://happyzomb.github.io/Ammonite/hosts.txt">834000 hosts</a></b> of adware, ransomware, malware and spyware, phishing and spam, sponsor and redirect, fake and scam, advertising and banner networks, tracking and telemetry, CPA, analytics and metrics, NSFW and gambling, mining, cryptojacking and illegal pharmacy selling hosts. The file is updated regularly.
 
 <b>It is recommended to use together with <a href="https://github.com/AdguardTeam/AdGuardDNS">AdGuard DNS</a> over TLS (for upstream queries), <a href="https://kazoo.ga/pixelserv-tls/">Pixelserv-TLS</a> and <a href="https://adguard.com/en/welcome.html#products">AdGuard</a> or <a href="https://github.com/gorhill/uBlock/">uBlock Origin</a>.</b>
 
