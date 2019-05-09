@@ -10,11 +10,9 @@
 
 # Description:
 
-About <b><a href="https://ammnt.github.io/Ammonite/hosts.txt">829000 hosts</a></b> of adware, ransomware, malware and spyware, phishing and spam, sponsor and redirect, fake and scam, advertising and banner networks, tracking and telemetry, CPA, analytics and metrics, NSFW and gambling, mining, cryptojacking and illegal pharmacy selling hosts. The file is updated regularly.
+About <b><a href="https://ammnt.github.io/Ammonite/hosts.txt">828000 hosts</a></b> of adware, ransomware, malware and spyware, phishing and spam, sponsor and redirect, fake and scam, advertising and banner networks, tracking and telemetry, CPA, analytics and metrics, NSFW and gambling, mining, cryptojacking and illegal pharmacy selling hosts. The file is updated regularly.
 
-<b>It is recommended to use together with <a href="https://github.com/AdguardTeam/AdGuardDNS">AdGuard DNS</a> over TLS (for upstream queries), <a href="https://kazoo.ga/pixelserv-tls/">Pixelserv-TLS</a> and <a href="https://adguard.com/en/welcome.html#products">AdGuard</a> or <a href="https://github.com/gorhill/uBlock/">uBlock Origin</a>.</b>
-
-<b>For users of <a href="https://asuswrt.lostrealm.ca/">ASUSWRT-Merlin</a> and Diversion i recommend to use the <a href="https://github.com/Xentrk/Stubby-Installer-Asuswrt-Merlin">Stubby</a> installation script by Xentrk.</b>
+<b>It is recommended to use together with <a href="https://github.com/AdguardTeam/AdGuardDNS">AdGuard DNS</a> over TLS (for upstream queries), <a href="https://kazoo.ga/pixelserv-tls/">Pixelserv-TLS</a> and <a href="https://adguard.com/en/welcome.html#products">AdGuard</a>.</b>
 
 Feel free to sent me issues with false positive blocks and more domains which need to be blocked. Any feedback will be pleased!
 
