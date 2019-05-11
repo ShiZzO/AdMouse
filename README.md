@@ -10,7 +10,7 @@
 
 # Description:
 
-About <b><a href="https://ammnt.github.io/Ammonite/hosts.txt">828000 hosts</a></b> of adware, ransomware, malware and spyware, phishing and spam, sponsor and redirect, fake and scam, advertising and banner networks, tracking and telemetry, CPA, analytics and metrics, NSFW and gambling, mining, cryptojacking and illegal pharmacy selling hosts. The file is updated regularly.
+About <b><a href="https://ammnt.github.io/Ammonite/hosts.txt">829000 hosts</a></b> of adware, ransomware, malware and spyware, phishing and spam, sponsor and redirect, fake and scam, advertising and banner networks, tracking and telemetry, CPA, analytics and metrics, NSFW and gambling, mining, cryptojacking and illegal pharmacy selling hosts. The file is updated regularly.
 
 <b>It is recommended to use together with <a href="https://github.com/AdguardTeam/AdGuardDNS">AdGuard DNS</a> over TLS (for upstream queries), <a href="https://kazoo.ga/pixelserv-tls/">Pixelserv-TLS</a> and <a href="https://adguard.com/en/welcome.html#products">AdGuard</a>.</b>
 
