@@ -31,3 +31,4 @@ If you want to unblock Google and Yandex sarch result - please, remove these dom
 - pagead.l.doubleclick.net
 - www.googleadservices.com
 - yabs.yandex.*
+- bs.yandex.*
