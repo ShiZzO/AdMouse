@@ -27,7 +27,7 @@ If you use Xbox Live, then these hosts have to be whitelisted/removed or you wil
 - v10.events.data.microsoft.com
 - v20.events.data.microsoft.com
 
-If you want to remove Google and Yandex sarch result - please, unblock these domains:
+If you want to unblock Google and Yandex sarch result - please, remove these domains:
 - pagead.l.doubleclick.net
 - www.googleadservices.com
 - yabs.yandex.*
