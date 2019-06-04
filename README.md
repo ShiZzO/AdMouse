@@ -10,13 +10,13 @@
 
 # Description:
 
-About <b><a href="https://ammnt.github.io/Ammonite/hosts.txt">850000 hosts</a></b> of adware, ransomware, malware and spyware, phishing and spam, sponsor and redirect, fake and scam, advertising and banner networks, tracking and telemetry, CPA, analytics and metrics, adult and gambling, mining, cryptojacking and illegal pharmacy selling hosts. The file is updated regularly.
+About <b><a href="https://ammnt.github.io/Ammonite/hosts.txt">875000 hosts</a></b> of adware, ransomware, malware and spyware, phishing and spam, sponsor and redirect, fake and scam, advertising and banner networks, tracking and telemetry, CPA, analytics and metrics, adult and gambling, mining, cryptojacking and illegal pharmacy selling hosts. The file is updated regularly.
 
 <b>It is recommended to use together with <a href="https://github.com/AdguardTeam/AdGuardDNS">AdGuard DNS</a> over TLS (for upstream queries), <a href="https://kazoo.ga/pixelserv-tls/">Pixelserv-TLS</a> and <a href="https://adguard.com/en/welcome.html#products">AdGuard</a>.</b>
 
 Feel free to sent me issues with false positive blocks and more domains which need to be blocked. Any feedback will be pleased!
 
-# Note:
+# Notes:
 
 If you use Xbox Live, then these hosts have to be whitelisted/removed or you will not get achievements:
 
@@ -27,7 +27,7 @@ If you use Xbox Live, then these hosts have to be whitelisted/removed or you wil
 - v10.events.data.microsoft.com
 - v20.events.data.microsoft.com
 
-If you want to unblock Google and Yandex sarch result - please, remove these domains:
+If you want to unblock Google and Yandex search result - please, remove these domains:
 - pagead.l.doubleclick.net
 - www.googleadservices.com
 - yabs.yandex.*
