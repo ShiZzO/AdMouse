@@ -47,3 +47,8 @@
 ||matomo.anomic.de^$empty,important
 ||seal.globalsign.com^$image,important
 ||seal.alphassl.com^$image,important
+||69i.club^$empty,important
+||savemyass.org^$empty,important
+||traffclick.me^$empty,important
+||jsblom.com^$empty,important
+||adfox.ru^$image,important
