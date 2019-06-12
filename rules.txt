@@ -51,4 +51,3 @@
 ||savemyass.org^$empty,important
 ||traffclick.me^$empty,important
 ||jsblom.com^$empty,important
-||adfox.ru^$image,important
