@@ -51,3 +51,4 @@
 ||savemyass.org^$empty,important
 ||traffclick.me^$empty,important
 ||jsblom.com^$empty,important
+||hawk.so^$empty,important
