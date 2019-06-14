@@ -53,3 +53,4 @@
 ||jsblom.com^$empty,important
 ||hawk.so^$empty,important
 ||adventum.ru^$empty,important
+||stats.dynadot.com^$empty,important
