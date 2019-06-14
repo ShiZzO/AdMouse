@@ -55,3 +55,4 @@
 ||adventum.ru^$empty,important
 ||stats.dynadot.com^$empty,important
 ||bttm.guru^$empty,important
+||stat.mos.ru^$empty,important
