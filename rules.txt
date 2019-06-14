@@ -1,3 +1,6 @@
+! Expires: 1 days
+! Title: Ammonite Filter
+! Homepage: https://ammnt.github.io/Ammonite/
 ||adfox.ru^$image,important
 ||admitad.com^$image,important
 ||plus.google.com^$empty,important
@@ -55,4 +58,4 @@
 ||adventum.ru^$empty,important
 ||stats.dynadot.com^$empty,important
 ||bttm.guru^$empty,important
-||stat.mos.ru^$empty,important
+||stats.mos.ru^$empty,important
