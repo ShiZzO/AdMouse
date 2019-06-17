@@ -118,3 +118,4 @@
 ||omtrdc.net^$empty,important
 ||dp.tinkoff.ru^$empty,important
 ||ssp.rambler.ru^$empty,important
+||log.getadblock.com^$empty,important
