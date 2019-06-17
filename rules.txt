@@ -130,3 +130,4 @@
 ||ssp.rambler.ru^$empty,important
 ||log.getadblock.com^$empty,important
 ||admetrica.ru^$empty,important
+||q.stripe.com^$empty,important
