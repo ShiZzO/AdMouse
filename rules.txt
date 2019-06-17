@@ -110,3 +110,7 @@
 ||yellst.icu^$empty,important
 ||gate.hockeyapp.net^$empty,important
 ||stats.vk-portal.net^$empty,important
+||redirdomain.ru^$empty,important
+||reredirecting.com^$empty,important
+||surefacdos.ru^$empty,important
+||crashlytics.com^$empty,important
