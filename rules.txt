@@ -95,8 +95,18 @@
 ||onesignal.com^$empty,important
 ||redirector.googlevideo.com^$empty,important
 ||suggestqueries.google.com^$empty,important
+||mp-a.info^$empty,important
+||mp-b.info^$empty,important
 ||mp-c.info^$empty,important
+||mp-https.info^$empty,important
 ||1qw.info^$empty,important
+||1qe.info^$empty,important
+||1qi.info^$empty,important
+||1qo.info^$empty,important
+||1qp.info^$empty,important
+||1qu.info^$empty,important
+||1qw.info^$empty,important
+||1qy.info^$empty,important
 ||gembling.pro^$empty,important
 ||winningnow.net^$empty,important
 ||ext-files.net^$empty,important
@@ -119,3 +129,4 @@
 ||dp.tinkoff.ru^$empty,important
 ||ssp.rambler.ru^$empty,important
 ||log.getadblock.com^$empty,important
+||admetrica.ru^$empty,important
