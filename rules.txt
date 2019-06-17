@@ -59,3 +59,6 @@
 ||stats.dynadot.com^$empty,important
 ||bttm.guru^$empty,important
 ||stats.mos.ru^$empty,important
+||mibmcbm.com^$empty,important
+||razdvabm.com^$empty,important
+||js.wpnjs.com^$empty,important
