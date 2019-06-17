@@ -114,3 +114,4 @@
 ||reredirecting.com^$empty,important
 ||surefacdos.ru^$empty,important
 ||crashlytics.com^$empty,important
+||analytics.ghostery.com^$empty,important
