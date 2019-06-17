@@ -109,3 +109,4 @@
 ||wowlucky.net^$empty,important
 ||yellst.icu^$empty,important
 ||gate.hockeyapp.net^$empty,important
+||stats.vk-portal.net^$empty,important
