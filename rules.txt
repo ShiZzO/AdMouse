@@ -116,3 +116,4 @@
 ||crashlytics.com^$empty,important
 ||analytics.ghostery.com^$empty,important
 ||omtrdc.net^$empty,important
+||dp.tinkoff.ru^$empty,important
