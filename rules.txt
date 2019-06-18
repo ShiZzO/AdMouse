@@ -131,3 +131,4 @@
 ||log.getadblock.com^$empty,important
 ||admetrica.ru^$empty,important
 ||q.stripe.com^$empty,important
+||sveklon.com^$empty,important
