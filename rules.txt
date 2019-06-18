@@ -132,3 +132,4 @@
 ||admetrica.ru^$empty,important
 ||q.stripe.com^$empty,important
 ||sveklon.com^$empty,important
+||stat.stars.ru^$empty,important
