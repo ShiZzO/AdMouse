@@ -133,4 +133,3 @@
 ||q.stripe.com^$empty,important
 ||sveklon.com^$empty,important
 ||stat.stars.ru^$empty,important
-||speed.nocookie.net^$empty,important
