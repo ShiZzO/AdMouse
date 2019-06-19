@@ -134,3 +134,4 @@
 ||sveklon.com^$empty,important
 ||stat.stars.ru^$empty,important
 ||tracker.giftd.ru^$empty,important
+||wh.giftd.tech^$empty,important
