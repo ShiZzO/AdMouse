@@ -133,3 +133,4 @@
 ||q.stripe.com^$empty,important
 ||sveklon.com^$empty,important
 ||stat.stars.ru^$empty,important
+||tracker.giftd.ru^$empty,important
