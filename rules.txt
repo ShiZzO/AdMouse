@@ -137,3 +137,4 @@
 ||wh.giftd.tech^$empty,important
 ||admon.pro^$empty,important
 ||analytics.boomstarter.ru^$empty,important
+||stat.sports.ru^$empty,important
