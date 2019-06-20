@@ -138,3 +138,5 @@
 ||admon.pro^$empty,important
 ||analytics.boomstarter.ru^$empty,important
 ||stat.sports.ru^$empty,important
+||alfasense.com^$empty,important
+||statdm.ru^$empty,important
