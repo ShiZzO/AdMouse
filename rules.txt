@@ -140,3 +140,6 @@
 ||stat.sports.ru^$empty,important
 ||alfasense.com^$empty,important
 ||statdm.ru^$empty,important
+||rdrkt.ru^$empty,important
+||advertspy.biz^$empty,important
+||jumpjmp.com^$empty,important
