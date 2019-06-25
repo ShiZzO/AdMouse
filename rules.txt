@@ -143,3 +143,5 @@
 ||rdrkt.ru^$empty,important
 ||advertspy.biz^$empty,important
 ||jumpjmp.com^$empty,important
+||track.stat-pulse.com^
+||wapclk.org^$empty,important
