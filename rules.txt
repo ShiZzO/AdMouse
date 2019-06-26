@@ -148,3 +148,4 @@
 ||ipstatp.com^
 ||beacon.flow.io^
 ||tracking.aegpresents.com^
+||stats.searchanise.com^
