@@ -146,3 +146,5 @@
 ||track.stat-pulse.com^
 ||wapclk.org^
 ||ipstatp.com^
+||beacon.flow.io^
+||tracking.aegpresents.com^
