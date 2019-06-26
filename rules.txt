@@ -154,3 +154,4 @@
 ||analytics.net2b.eu^
 ||adfenix.com^
 ||tracking-api.bmw.com^
+||smetrics.cnn.com^
