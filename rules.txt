@@ -159,3 +159,12 @@
 ||anal.ostamt.de^
 ||tracking.sezzle.com^
 ||track-re01.com^
+||sfdr.co^
+||seal.godaddy.com^$image,important
+||beacon.rci.eggplant.cloud^
+||makeupstat.ru^
+||tracker.directcrm.ru^
+||logging.datahonest.com^
+||seal-santabarbara.bbb.org^$image,important
+||web-analytics.smile.io^
+||stats-bq.stylight.net^
