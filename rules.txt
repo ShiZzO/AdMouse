@@ -156,3 +156,4 @@
 ||tracking-api.bmw.com^
 ||smetrics.cnn.com^
 ||anal.ostamt.de^
+||unagi-na.amazon.com^
