@@ -151,3 +151,4 @@
 ||stats.searchanise.com^
 ||web-analytics.smile.io^
 ||us5-track.inside-graph.com^
+||analytics.net2b.eu^
