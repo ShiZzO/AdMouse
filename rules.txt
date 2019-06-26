@@ -152,3 +152,4 @@
 ||web-analytics.smile.io^
 ||us5-track.inside-graph.com^
 ||analytics.net2b.eu^
+||cdn.adfenix.com^
