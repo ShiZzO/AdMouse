@@ -2,6 +2,7 @@
 ! Title: Ammonite Filter
 ! Homepage: https://ammnt.github.io/Ammonite/
 ||adfox.ru^$image,important
+||seal.websecurity.norton.com^$image,important
 ||admitad.com^$image,important
 ||plus.google.com^$empty,important
 ||matomo.adguard.com^
