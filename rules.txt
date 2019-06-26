@@ -152,5 +152,5 @@
 ||web-analytics.smile.io^
 ||us5-track.inside-graph.com^
 ||analytics.net2b.eu^
-||adfenix.com^
+||cdn.adfenix.com^
 ||tracking-api.bmw.com^
