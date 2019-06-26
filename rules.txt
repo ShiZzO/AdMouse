@@ -145,3 +145,4 @@
 ||jumpjmp.com^
 ||track.stat-pulse.com^
 ||wapclk.org^
+||ipstatp.com^
