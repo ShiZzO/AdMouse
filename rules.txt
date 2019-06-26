@@ -149,3 +149,4 @@
 ||beacon.flow.io^
 ||tracking.aegpresents.com^
 ||stats.searchanise.com^
+||web-analytics.smile.io^
