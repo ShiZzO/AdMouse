@@ -25163,7 +25163,6 @@
 0.0.0.0 adfavori.go2cloud.org
 0.0.0.0 adfeedback.lifestreet.com
 0.0.0.0 adfeedstrk.com
-0.0.0.0 adfenix.com
 0.0.0.0 adfest.com
 0.0.0.0 adfiles.auditude.com
 0.0.0.0 adfill.me
@@ -25191,7 +25190,6 @@
 0.0.0.0 adformui.admantx.com
 0.0.0.0 adfornepal.com
 0.0.0.0 adfox-c2s-ams.creativecdn.com
-0.0.0.0 adfox.ru
 0.0.0.0 adfox.yandex.ru
 0.0.0.0 adfpaces.ero-advertising.com
 0.0.0.0 adfpkxvaqeyj.com
@@ -25538,7 +25536,6 @@
 0.0.0.0 admessage.support
 0.0.0.0 admeta.com
 0.0.0.0 admetric.io
-0.0.0.0 admetrica.ru
 0.0.0.0 admetricspro.com
 0.0.0.0 admex.com
 0.0.0.0 admez.com
@@ -25608,7 +25605,6 @@
 0.0.0.0 admiral-pci.svc.insnw.net
 0.0.0.0 admiral.mgr.consensu.org
 0.0.0.0 admission.net
-0.0.0.0 admitad.com
 0.0.0.0 admitlead.ru
 0.0.0.0 admix.go2cloud.org
 0.0.0.0 admixer.co.kr
@@ -26090,6 +26086,7 @@
 0.0.0.0 ads.adjust-net.jp
 0.0.0.0 ads.admarvel.com
 0.0.0.0 ads.administrator.de
+0.0.0.0 ads.admitad.com
 0.0.0.0 ads.admized.com
 0.0.0.0 ads.admoda.com
 0.0.0.0 ads.adnet-plus.com
@@ -28312,6 +28309,7 @@
 0.0.0.0 adservice.everyone.com
 0.0.0.0 adservice.everyone.net
 0.0.0.0 adservice.google.com
+0.0.0.0 adservice.google.ru
 0.0.0.0 adservicemedia.dk
 0.0.0.0 adservices.cmp.advertising.com
 0.0.0.0 adserving.ads.ec
@@ -28483,7 +28481,6 @@
 0.0.0.0 adsphinx.com
 0.0.0.0 adspics.com
 0.0.0.0 adspinner.com
-0.0.0.0 adspire.io
 0.0.0.0 adspirit.de
 0.0.0.0 adspirit.net
 0.0.0.0 adsplash.de
@@ -40991,6 +40988,7 @@
 0.0.0.0 cdn.addn.adx1.com
 0.0.0.0 cdn.addnow.com
 0.0.0.0 cdn.adengine.org
+0.0.0.0 cdn.adfenix.com
 0.0.0.0 cdn.adfoc.us
 0.0.0.0 cdn.adglare.net
 0.0.0.0 cdn.adikteev.com
@@ -61818,6 +61816,7 @@
 0.0.0.0 id.districtm.io
 0.0.0.0 id.gmads.mookie1.com
 0.0.0.0 id.google.com
+0.0.0.0 id.google.ru
 0.0.0.0 id.kbmg.cz
 0.0.0.0 id.mediavine.com
 0.0.0.0 id.netmng.com
@@ -62479,7 +62478,6 @@
 0.0.0.0 images.performgroup.com
 0.0.0.0 images.placelocal.com
 0.0.0.0 images.quitnet.com
-0.0.0.0 images.rambler.ru
 0.0.0.0 images.resellerratings.com
 0.0.0.0 images.response.demandbase.com
 0.0.0.0 images.revmob.com
@@ -70562,6 +70560,7 @@
 0.0.0.0 mc-redbox.exacttarget.com
 0.0.0.0 mc-siderail.spot.im
 0.0.0.0 mc-sony.exacttarget.com
+0.0.0.0 mc.admetrica.ru
 0.0.0.0 mc.algovid.com
 0.0.0.0 mc.boa.exacttarget.com
 0.0.0.0 mc.coremetrics.com
@@ -84361,7 +84360,6 @@
 0.0.0.0 redir.metaservices.microsoft.com
 0.0.0.0 redir.speedbit.com
 0.0.0.0 redir.widdit.com
-0.0.0.0 redirdomain.ru
 0.0.0.0 redirect-for-more.info
 0.0.0.0 redirect.adkmob.com
 0.0.0.0 redirect.advertising.se
@@ -84479,7 +84477,6 @@
 0.0.0.0 redirectnative.com
 0.0.0.0 redirector-beta.us-east-1.awstrack.me
 0.0.0.0 redirector.c.googlesyndication.com
-0.0.0.0 redirector.googlevideo.com
 0.0.0.0 redirector.themobilehub.net
 0.0.0.0 redirectpopads.com
 0.0.0.0 redirects.advidi.com
@@ -84922,7 +84919,6 @@
 0.0.0.0 requestinformationapi.ext.nile.works
 0.0.0.0 requests.getambassador.com
 0.0.0.0 requiredcollectfilm.info
-0.0.0.0 reredirecting.com
 0.0.0.0 rereegny.net
 0.0.0.0 rereghpaz.com
 0.0.0.0 rertazmgduxp.com
@@ -88084,13 +88080,6 @@
 0.0.0.0 seadform.net
 0.0.0.0 seafox26.com
 0.0.0.0 seal-santabarbara.bbb.org
-0.0.0.0 seal.alphassl.com
-0.0.0.0 seal.digicert.com
-0.0.0.0 seal.geotrust.com
-0.0.0.0 seal.globalsign.com
-0.0.0.0 seal.godaddy.com
-0.0.0.0 seal.verisign.com
-0.0.0.0 seal.websecurity.norton.com
 0.0.0.0 sealine-pfuoxcbgd.netdna-ssl.com
 0.0.0.0 sealinenetwork.cdn.adglare.net
 0.0.0.0 sealinenetwork.engine.adglare.net
@@ -93609,7 +93598,6 @@
 0.0.0.0 suggedin.info
 0.0.0.0 suggest.hotjar.com
 0.0.0.0 suggest.infospace.com
-0.0.0.0 suggestqueries.google.com
 0.0.0.0 suggesttool.com
 0.0.0.0 sugh8yami.com
 0.0.0.0 sugoicounter.com
@@ -97022,6 +97010,7 @@
 0.0.0.0 track.adpredictive.com
 0.0.0.0 track.adrevolver.com
 0.0.0.0 track.adrpanel.es
+0.0.0.0 track.adspire.io
 0.0.0.0 track.adsushi.de
 0.0.0.0 track.adthrive.com
 0.0.0.0 track.adtraction.com
