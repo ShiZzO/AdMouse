@@ -2,6 +2,7 @@
 0.0.0.0 0-hjsochvj-ios-1-2-3.mobile-sdk-api.intercom.io
 0.0.0.0 0-jovd32f9-ios-7-0-1.mobile-sdk-api.intercom.io
 0.0.0.0 0.r.bat.bing.com
+0.0.0.0 rbck.st3pst3p.com
 0.0.0.0 00.creativecdn.com
 0.0.0.0 0026645142c89aeb1.com
 0.0.0.0 005.0x1f4b0.com
@@ -10370,13 +10371,18 @@
 0.0.0.0 aceelectronicsforu.pushengage.com
 0.0.0.0 acento.com
 0.0.0.0 aceratezhoytlh.download
+0.0.0.0 a.adwolf.ru
+0.0.0.0 track.rutarget.ru
 0.0.0.0 acestats.com
+0.0.0.0 ads.tdbank.com
 0.0.0.0 acestats.net
 0.0.0.0 acetrk.com
+0.0.0.0 str.hit.gemius.pl
 0.0.0.0 acexedge.com
 0.0.0.0 acf-webmaster.net
 0.0.0.0 acheven2.go2cloud.org
 0.0.0.0 achmedia.com
+0.0.0.0 guce.advertising.com
 0.0.0.0 achsijkc.com
 0.0.0.0 acidityfoamy.com
 0.0.0.0 acim.com
@@ -58643,13 +58649,11 @@
 0.0.0.0 google.east-s2s.1rx.io
 0.0.0.0 google.qualtrics.com
 0.0.0.0 google2waycm.netmng.com
-0.0.0.0 googleadapis.l.google.com
 0.0.0.0 googleads.g.doubleclick.com
 0.0.0.0 googleads.g.doubleclick.net
 0.0.0.0 googleads2.g.doubleclick.net
 0.0.0.0 googleads4.g.doubleclick.net
 0.0.0.0 googleadservicepixel.com
-0.0.0.0 googleadservices.com
 0.0.0.0 googleadxevents2bidder-east.extend.tv
 0.0.0.0 googleadxevents2bidder-west.extend.tv
 0.0.0.0 googleadxeventsbidder-east.extend.tv
@@ -74983,7 +74987,6 @@
 0.0.0.0 ninegag-d.openx.net
 0.0.0.0 ninemsn.imrworldwide.com
 0.0.0.0 ninestats.com
-0.0.0.0 nineto5mac-d.openx.net
 0.0.0.0 ningme.ru
 0.0.0.0 ninja-kitchen.extole.io
 0.0.0.0 ninja.onap.io
@@ -78363,7 +78366,6 @@
 0.0.0.0 page.sumo.com
 0.0.0.0 page713.textchem.hop.clickbank.net
 0.0.0.0 pagead.googlesyndication.com
-0.0.0.0 pagead.l.doubleclick.net
 0.0.0.0 pagead.l.google.com
 0.0.0.0 pagead1.googlesyndication.com
 0.0.0.0 pagead2.googleadservices.com
@@ -110662,7 +110664,6 @@
 0.0.0.0 www.google-analytics.com
 0.0.0.0 www.google.com.1.302br.net
 0.0.0.0 www.google.frads.lfstmedia.com
-0.0.0.0 www.googleadservices.com
 0.0.0.0 www.googletagmanager.com
 0.0.0.0 www.googletagservices.com
 0.0.0.0 www.gooool.com
