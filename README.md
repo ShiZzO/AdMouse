@@ -16,7 +16,7 @@ About <b><a href="https://github.com/ammnt/Ammonite">900000 hosts</a></b> of adw
 
 Feel free to sent me issues with false positive blocks and more domains which need to be blocked. Any feedback will be pleased!
 
-# Notes:
+# Note:
 
 If you use Xbox Live, then these hosts have to be whitelisted/removed or you will not get achievements:
 
