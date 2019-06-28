@@ -1218,7 +1218,6 @@
 0.0.0.0 1qp.info
 0.0.0.0 1qu.info
 0.0.0.0 1qw.info
-0.0.0.0 1qw.info
 0.0.0.0 1qy.info
 0.0.0.0 1rankingad.com
 0.0.0.0 1rcu4.voluumtrk.com
@@ -7271,7 +7270,6 @@
 0.0.0.0 a.opmnstr.com
 0.0.0.0 a.optinmonster.com
 0.0.0.0 a.optmnstr.com
-0.0.0.0 a.optmstr.com
 0.0.0.0 a.optmstr.com
 0.0.0.0 a.optnmnstr.com
 0.0.0.0 a.optnmstr.com
@@ -25194,7 +25192,6 @@
 0.0.0.0 adfornepal.com
 0.0.0.0 adfox-c2s-ams.creativecdn.com
 0.0.0.0 adfox.ru
-0.0.0.0 adfox.ru
 0.0.0.0 adfox.yandex.ru
 0.0.0.0 adfpaces.ero-advertising.com
 0.0.0.0 adfpkxvaqeyj.com
@@ -25366,7 +25363,6 @@
 0.0.0.0 aditmedia.go2affise.com
 0.0.0.0 aditor.go2cloud.org
 0.0.0.0 adizio.com
-0.0.0.0 adj.st
 0.0.0.0 adj.st
 0.0.0.0 adjal.com
 0.0.0.0 adjal.go2cloud.org
@@ -25612,7 +25608,6 @@
 0.0.0.0 admiral-pci.svc.insnw.net
 0.0.0.0 admiral.mgr.consensu.org
 0.0.0.0 admission.net
-0.0.0.0 admitad.com
 0.0.0.0 admitad.com
 0.0.0.0 admitlead.ru
 0.0.0.0 admix.go2cloud.org
@@ -26758,7 +26753,6 @@
 0.0.0.0 ads.mysupermarket.com
 0.0.0.0 ads.mytelus.com
 0.0.0.0 ads.myx.net
-0.0.0.0 ads.n-ws.org
 0.0.0.0 ads.n-ws.org
 0.0.0.0 ads.n131adserv.com
 0.0.0.0 ads.narrowline.com
@@ -32396,7 +32390,6 @@
 0.0.0.0 app-lon08.marketo.com
 0.0.0.0 app-lon09.marketo.com
 0.0.0.0 app-lon10.marketo.com
-0.0.0.0 app-measurement.com
 0.0.0.0 app-measurement.com
 0.0.0.0 app-nation.marketo.com
 0.0.0.0 app-o.marketo.com
@@ -41290,7 +41283,6 @@
 0.0.0.0 cdn.mookie1.com
 0.0.0.0 cdn.mouseflow.com
 0.0.0.0 cdn.mplxtms.com
-0.0.0.0 cdn.mxpnl.com
 0.0.0.0 cdn.n.adx1.com
 0.0.0.0 cdn.n131adserv.com
 0.0.0.0 cdn.native.ai
@@ -45910,7 +45902,6 @@
 0.0.0.0 counter.24log.es
 0.0.0.0 counter.24smi.info
 0.0.0.0 counter.adguard.com
-0.0.0.0 counter.adguard.com
 0.0.0.0 counter.adultrevenueservice.com
 0.0.0.0 counter.all.biz
 0.0.0.0 counter.amik.ru
@@ -46419,7 +46410,6 @@
 0.0.0.0 crasheye.cn
 0.0.0.0 crashfootwork.com
 0.0.0.0 crashlytics.163.com
-0.0.0.0 crashlytics.com
 0.0.0.0 crashlytics.com
 0.0.0.0 crashreport-api.presage.io
 0.0.0.0 crateac.com
@@ -65348,7 +65338,6 @@
 0.0.0.0 js862.anreson.net
 0.0.0.0 jsauth.mymovies.net
 0.0.0.0 jsblom.com
-0.0.0.0 jsblom.com
 0.0.0.0 jsc.adskeeper.co.uk
 0.0.0.0 jsc.dinclinx.com
 0.0.0.0 jsc.dt07.net
@@ -68453,7 +68442,6 @@
 0.0.0.0 log.gds.mmstat.com
 0.0.0.0 log.gemscool.com
 0.0.0.0 log.getadblock.com
-0.0.0.0 log.getadblock.com
 0.0.0.0 log.go.com
 0.0.0.0 log.go2s.co
 0.0.0.0 log.hiiir.com
@@ -70402,7 +70390,6 @@
 0.0.0.0 mathworks.hb.omtrdc.net
 0.0.0.0 matiro.com
 0.0.0.0 matomo.adguard.com
-0.0.0.0 matomo.adguard.com
 0.0.0.0 matomo.airfind.com
 0.0.0.0 matomo.anomic.de
 0.0.0.0 matomo.cloud
@@ -71398,14 +71385,12 @@
 0.0.0.0 metrics.active.com
 0.0.0.0 metrics.adflake.com
 0.0.0.0 metrics.adidas.com
-0.0.0.0 metrics.adidas.com
 0.0.0.0 metrics.adswizz.com
 0.0.0.0 metrics.aeon.co
 0.0.0.0 metrics.ambient-platform.com
 0.0.0.0 metrics.ancestry.com
 0.0.0.0 metrics.apartments.com
 0.0.0.0 metrics.api.drift.com
-0.0.0.0 metrics.apple.com
 0.0.0.0 metrics.apple.com
 0.0.0.0 metrics.att.com
 0.0.0.0 metrics.aviasales.ru
@@ -72808,11 +72793,8 @@
 0.0.0.0 mozoo-d.openx.net
 0.0.0.0 mozoo.com
 0.0.0.0 mp-a.info
-0.0.0.0 mp-a.info
-0.0.0.0 mp-b.info
 0.0.0.0 mp-b.info
 0.0.0.0 mp-c.info
-0.0.0.0 mp-https.info
 0.0.0.0 mp-https.info
 0.0.0.0 mp-p.alcmpn.com
 0.0.0.0 mp-success.com
@@ -76885,7 +76867,6 @@
 0.0.0.0 omsama.info
 0.0.0.0 omshdahhtt.com
 0.0.0.0 omt.shinobi.jp
-0.0.0.0 omtrdc.net
 0.0.0.0 omtrdc.net
 0.0.0.0 omwcywwzun.com
 0.0.0.0 omynews.net
@@ -84827,6 +84808,7 @@
 0.0.0.0 report.adtz.com
 0.0.0.0 report.adview.cn
 0.0.0.0 report.api.vungle.com
+0.0.0.0 report.appmetrica.webvisor.com
 0.0.0.0 report.appmetrica.yandex.net
 0.0.0.0 report.boldchat.com
 0.0.0.0 report.crashlytics.com
@@ -88107,8 +88089,6 @@
 0.0.0.0 seal.geotrust.com
 0.0.0.0 seal.globalsign.com
 0.0.0.0 seal.godaddy.com
-0.0.0.0 seal.godaddy.com
-0.0.0.0 seal.verisign.com
 0.0.0.0 seal.verisign.com
 0.0.0.0 seal.websecurity.norton.com
 0.0.0.0 sealine-pfuoxcbgd.netdna-ssl.com
@@ -88380,7 +88360,6 @@
 0.0.0.0 securejump.net
 0.0.0.0 securemail.rubiconproject.com
 0.0.0.0 securemetrics.apple.com
-0.0.0.0 securemetrics.apple.com
 0.0.0.0 securepaths.com
 0.0.0.0 securepubads.g.doubleclick.net
 0.0.0.0 securert.monarchads.com
@@ -88577,7 +88556,6 @@
 0.0.0.0 sentry.adwyze.com
 0.0.0.0 sentry.gitlab.net
 0.0.0.0 sentry.hotjar.com
-0.0.0.0 sentry.io
 0.0.0.0 sentry.io
 0.0.0.0 sentry.kops.hotjar.com
 0.0.0.0 sentry.lisnr.com
@@ -90284,7 +90262,6 @@
 0.0.0.0 smartetailing.piwik.pro
 0.0.0.0 smarthomemarket.clickfunnels.com
 0.0.0.0 smarticon.geotrust.com
-0.0.0.0 smarticon.geotrust.com
 0.0.0.0 smartideas.clickfunnels.com
 0.0.0.0 smartinfomarketing.ru
 0.0.0.0 smartlify-d.openx.net
@@ -90335,7 +90312,6 @@
 0.0.0.0 smetrics.boston.com
 0.0.0.0 smetrics.capitalone.com
 0.0.0.0 smetrics.cbc.ca
-0.0.0.0 smetrics.cnn.com
 0.0.0.0 smetrics.cnn.com
 0.0.0.0 smetrics.comcast.com
 0.0.0.0 smetrics.consumerreports.org
@@ -91268,7 +91244,6 @@
 0.0.0.0 sphere.outbrain.org
 0.0.0.0 sphereselfserve.outbrain.com
 0.0.0.0 sphjqakwuteg.com
-0.0.0.0 spica.iad-03.braze.com
 0.0.0.0 spica.iad-03.braze.com
 0.0.0.0 spicejetlimited.sc.omtrdc.net
 0.0.0.0 spicejetltd.tt.omtrdc.net
@@ -92350,7 +92325,6 @@
 0.0.0.0 stat.social
 0.0.0.0 stat.sports.ru
 0.0.0.0 stat.sputnik.ru
-0.0.0.0 stat.stars.ru
 0.0.0.0 stat.stars.ru
 0.0.0.0 stat.su
 0.0.0.0 stat.teleport.media
@@ -97341,7 +97315,6 @@
 0.0.0.0 tracker.financialcontent.com
 0.0.0.0 tracker.fyber.com
 0.0.0.0 tracker.giftd.ru
-0.0.0.0 tracker.giftd.ru
 0.0.0.0 tracker.icerocket.com
 0.0.0.0 tracker.iltrovatore.it
 0.0.0.0 tracker.infosender.in
@@ -97454,7 +97427,6 @@
 0.0.0.0 tracking.adsx.unityads.unity3d.com
 0.0.0.0 tracking.adtracker.ch
 0.0.0.0 tracking.adweb.co.kr
-0.0.0.0 tracking.aegpresents.com
 0.0.0.0 tracking.aegpresents.com
 0.0.0.0 tracking.allposters.com
 0.0.0.0 tracking.amazing-revenue.com
@@ -106726,7 +106698,6 @@
 0.0.0.0 web-adservice.com
 0.0.0.0 web-analystics.engagio.com
 0.0.0.0 web-analytics.engagio.com
-0.0.0.0 web-analytics.smile.io
 0.0.0.0 web-analytics.smile.io
 0.0.0.0 web-assets.tapfiliate.com
 0.0.0.0 web-beta.boldchat.com
