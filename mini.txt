@@ -86499,6 +86499,7 @@
 0.0.0.0 roughted.com
 0.0.0.0 roukel.com
 0.0.0.0 roulettebot-plus.com
+0.0.0.0 roundfortred.ru
 0.0.0.0 roupsouk.com
 0.0.0.0 routard.partner.intentmedia.net
 0.0.0.0 route-53-tones.lisnr.com
@@ -113234,6 +113235,7 @@
 0.0.0.0 www.ropnqabtmaths.review
 0.0.0.0 www.rotrk.com
 0.0.0.0 www.rotunddpgyiagb.download
+0.0.0.0 www.roundfortred.ru
 0.0.0.0 www.rovelrpphyrua.download
 0.0.0.0 www.rowdyishtnhlgiax.download
 0.0.0.0 www.roxyaffiliates.com
