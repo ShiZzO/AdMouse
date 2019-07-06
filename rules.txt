@@ -171,3 +171,6 @@
 ||track.realtimeboard.com^
 ||poolgmsd.com^
 ||pushrase.com^
+||afshp1.ru^
+||eti-code.com^
+||froala.com^
