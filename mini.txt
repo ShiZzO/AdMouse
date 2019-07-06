@@ -1042,6 +1042,7 @@
 0.0.0.0 19.creativecdn.com
 0.0.0.0 19.ptp22.com
 0.0.0.0 190.6.87.194.dynamic.dol.ru
+0.0.0.0 190282.xyz
 0.0.0.0 19034.engine.mobileapptracking.com
 0.0.0.0 190519.engine.mobileapptracking.com
 0.0.0.0 190543da.hullapp.io
@@ -68306,6 +68307,7 @@
 0.0.0.0 lilbutmighty.privy.com
 0.0.0.0 liligo.partner.intentmedia.net
 0.0.0.0 lilncsqapikckt.com
+0.0.0.0 liluwoms8.ru
 0.0.0.0 limaten.info
 0.0.0.0 limbik.io
 0.0.0.0 limelightovp3.creatorcloud.netdna-cdn.com
@@ -74180,6 +74182,7 @@
 0.0.0.0 mypagerank.ru
 0.0.0.0 mypictures-onlinegood.info
 0.0.0.0 mypictures-onlinemaxpark.info
+0.0.0.0 mypictures-versii.info
 0.0.0.0 mypixel.traffiliate.com
 0.0.0.0 myplayerhd.net
 0.0.0.0 mypoints.com
@@ -76973,6 +76976,7 @@
 0.0.0.0 oba.media.net
 0.0.0.0 obaizahshita.info
 0.0.0.0 obb-vodacom.akstat.io
+0.0.0.0 obb.domohoziaka.ru
 0.0.0.0 obc99.voluumtrk.com
 0.0.0.0 obczphph.com
 0.0.0.0 obeeifroxtivh.com
@@ -106443,6 +106447,7 @@
 0.0.0.0 vipadshares.com
 0.0.0.0 vipadvert.net
 0.0.0.0 vipbanner.de
+0.0.0.0 vipblogers.ru
 0.0.0.0 vipcpms.com
 0.0.0.0 viperotika.net
 0.0.0.0 viphdsrlec.com
@@ -109531,6 +109536,7 @@
 0.0.0.0 www.189096.engine.mobileapptracking.com
 0.0.0.0 www.189358.engine.mobileapptracking.com
 0.0.0.0 www.189732.engine.mobileapptracking.com
+0.0.0.0 www.190282.xyz
 0.0.0.0 www.191307.engine.mobileapptracking.com
 0.0.0.0 www.192299.engine.mobileapptracking.com
 0.0.0.0 www.19588.engine.mobileapptracking.com
@@ -112176,6 +112182,7 @@
 0.0.0.0 www.lightedpages.com
 0.0.0.0 www.lijit.com
 0.0.0.0 www.likebtn.com
+0.0.0.0 www.liluwoms8.ru
 0.0.0.0 www.limmaocijq.download
 0.0.0.0 www.link.ac
 0.0.0.0 www.link.dynamicyield.com
@@ -112587,6 +112594,7 @@
 0.0.0.0 www.mynativeplatform.com
 0.0.0.0 www.myoffer.clickfunnels.com
 0.0.0.0 www.myosotisvkrzovi.download
+0.0.0.0 www.mypictures-versii.info
 0.0.0.0 www.myseostats.com
 0.0.0.0 www.mysite.eloqua.com
 0.0.0.0 www.mystighty.info
@@ -112692,6 +112700,7 @@
 0.0.0.0 www.oascentral.blogher.org.12468.9030.302br.net
 0.0.0.0 www.oascentral.blogher.org.12470.9030.302br.net
 0.0.0.0 www.oatcakehcewr.download
+0.0.0.0 www.obb.domohoziaka.ru
 0.0.0.0 www.obelix.mc.inmobi.com
 0.0.0.0 www.oblivmt.site
 0.0.0.0 www.observantsumzcl.download
@@ -114157,6 +114166,7 @@
 0.0.0.0 www.vindicosuite.com
 0.0.0.0 www.vip.126.com
 0.0.0.0 www.vipadshares.com
+0.0.0.0 www.vipblogers.ru
 0.0.0.0 www.virads.com
 0.0.0.0 www.virt0n.news
 0.0.0.0 www.virtual-person.com
