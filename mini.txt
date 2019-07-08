@@ -87507,8 +87507,6 @@
 0.0.0.0 s.c.jwpltx.com
 0.0.0.0 s.c.ping-origin-prd.jwpltx.com
 0.0.0.0 s.cimg.163.com
-0.0.0.0 s.click.aliexpress.com
-0.0.0.0 s.click.taobao.com
 0.0.0.0 s.clickability.com
 0.0.0.0 s.clicktex.ru
 0.0.0.0 s.conyak.com
