@@ -95,7 +95,6 @@
 ||spica.iad-03.braze.com^
 ||onesignal.com^
 ||redirector.googlevideo.com^
-||suggestqueries.google.com^
 ||mp-a.info^
 ||mp-b.info^
 ||mp-c.info^
