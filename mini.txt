@@ -49405,6 +49405,7 @@
 0.0.0.0 devsync.graphly.io
 0.0.0.0 devtest.celebrus.com
 0.0.0.0 devtest.media.net
+0.0.0.0 devtizer.ru
 0.0.0.0 devvm.imprev.net
 0.0.0.0 devwww.extremereach.com
 0.0.0.0 dewife.ru
@@ -56913,6 +56914,7 @@
 0.0.0.0 fruitkings.com
 0.0.0.0 frusa-mkt-dev1-res.campaign.adobe.com
 0.0.0.0 frvfrv.com
+0.0.0.0 frvid.ru
 0.0.0.0 frxohovv.com
 0.0.0.0 frzaj.com
 0.0.0.0 fs-client-logger.herokuapp.com
@@ -110999,6 +111001,7 @@
 0.0.0.0 www.develop.adx1.com
 0.0.0.0 www.development.adx1.com
 0.0.0.0 www.device-fingerprintdb-v1.s3.amazonaws.com
+0.0.0.0 www.devtizer.ru
 0.0.0.0 www.dewaporn.com.ispot.tv
 0.0.0.0 www.dex.k8s-prod.fiksu.com
 0.0.0.0 www.dex.k8s-test.fiksu.com
@@ -111449,6 +111452,7 @@
 0.0.0.0 www.frontingfjwpsvis.download
 0.0.0.0 www.frontletsvuesv.download
 0.0.0.0 www.frontwardsxizrhchs.download
+0.0.0.0 www.frvid.ru
 0.0.0.0 www.fs-client-logger.herokuapp.com
 0.0.0.0 www.fs.corp.mparticle.com
 0.0.0.0 www.fs.tidaltv.com
