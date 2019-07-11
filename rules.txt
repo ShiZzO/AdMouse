@@ -175,3 +175,6 @@
 ||froala.com^
 ||jewnsk.pro^
 ||tracker.tiu.ru^
+||svekolka.com^
+||blaghfpd.com^
+||poolgmsd.com^
