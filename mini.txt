@@ -37155,6 +37155,7 @@
 0.0.0.0 blacktri-a.akamaihd.net
 0.0.0.0 blacktri.com
 0.0.0.0 blafo.ru
+0.0.0.0 blaghfpd.com
 0.0.0.0 blah.insnw.net
 0.0.0.0 blailays.pro
 0.0.0.0 blamads-assets.s3.amazonaws.com
@@ -51777,6 +51778,7 @@
 0.0.0.0 eeb06878.qqc.co
 0.0.0.0 eeb73a24.hullapp.io
 0.0.0.0 eebcbdca7331314.com
+0.0.0.0 eebfffjegjajjiacaci.ru
 0.0.0.0 eebrojmn.com
 0.0.0.0 eecd179r3b.com
 0.0.0.0 eecouk.demdex.net
@@ -54878,6 +54880,7 @@
 0.0.0.0 fasttrack.nu
 0.0.0.0 fasttracktech.biz
 0.0.0.0 fastwebcounter.com
+0.0.0.0 fat1domain1.com
 0.0.0.0 fata.ero-advertising.com
 0.0.0.0 fatads.toldya.com
 0.0.0.0 fatayvywbebgdn.com
@@ -61259,6 +61262,7 @@
 0.0.0.0 hpufwccrmiwz.com
 0.0.0.0 hpvce.adj.st
 0.0.0.0 hpve.adj.st
+0.0.0.0 hpvvn.com
 0.0.0.0 hpwsosviqyjem.com
 0.0.0.0 hpwtrpizecrowned.review
 0.0.0.0 hpxbifcd.com
@@ -81382,6 +81386,7 @@
 0.0.0.0 pool7.moatads.com
 0.0.0.0 pool8.moatads.com
 0.0.0.0 pool9.moatads.com
+0.0.0.0 poolgmsd.com
 0.0.0.0 poolmining.eu
 0.0.0.0 poolmining.net
 0.0.0.0 poolnoodle.tech
@@ -83078,6 +83083,7 @@
 0.0.0.0 pushno.com
 0.0.0.0 pushpop.keen.io
 0.0.0.0 pushrev.content-ad.net
+0.0.0.0 pushs.site
 0.0.0.0 pushservice.one
 0.0.0.0 pushspring.com
 0.0.0.0 pushwhy.com
@@ -94736,6 +94742,7 @@
 0.0.0.0 svdnqszxgucgd.com
 0.0.0.0 svdsutdq.com
 0.0.0.0 sveklon.com
+0.0.0.0 svekolka.com
 0.0.0.0 svenskaspel-mkt-stage1.campaign.adobe.com
 0.0.0.0 svfqoztfopv.com
 0.0.0.0 sviaccintlweb.112.2o7.net
@@ -98262,6 +98269,7 @@
 0.0.0.0 tracker.tagcommander.com
 0.0.0.0 tracker.thinkindot.com
 0.0.0.0 tracker.timesgroup.com
+0.0.0.0 tracker.tiu.ru
 0.0.0.0 tracker.trackerbox.com
 0.0.0.0 tracker.trackerfix.com
 0.0.0.0 tracker.tradedoubler.com
@@ -106431,6 +106439,7 @@
 0.0.0.0 viokan.xvhod.ru
 0.0.0.0 vip-ads-tpx.stg.ads.aws.fwmrm.net
 0.0.0.0 vip-north.playhaven.com
+0.0.0.0 vip-p0rtal.services
 0.0.0.0 vip-vip-vup.com
 0.0.0.0 vip-websc.org
 0.0.0.0 vip.126.com
@@ -110342,6 +110351,7 @@
 0.0.0.0 www.bkrtx.com
 0.0.0.0 www.bksn.se
 0.0.0.0 www.blacklightimages.com
+0.0.0.0 www.blaghfpd.com
 0.0.0.0 www.blamads.com
 0.0.0.0 www.blankrefer.com
 0.0.0.0 www.blazedlvlwzwt.download
@@ -111138,6 +111148,7 @@
 0.0.0.0 www.edge.quantserve.com
 0.0.0.0 www.edomz.com
 0.0.0.0 www.educationtothecore.leadpages.co
+0.0.0.0 www.eebfffjegjajjiacaci.ru
 0.0.0.0 www.eeczfihelicopter.review
 0.0.0.0 www.effeminatejfghoxdji.download
 0.0.0.0 www.eg1n7.adx1.com
@@ -111324,6 +111335,7 @@
 0.0.0.0 www.fastlinkfinder.com
 0.0.0.0 www.fastly-insights.com
 0.0.0.0 www.fastonlinefinder.com
+0.0.0.0 www.fat1domain1.com
 0.0.0.0 www.favoritismkwaqmz.download
 0.0.0.0 www.fbapp1.theappgrader.com
 0.0.0.0 www.fcvjhuzdcached.review
@@ -111747,6 +111759,7 @@
 0.0.0.0 www.hotspot.leadpages.co
 0.0.0.0 www.hoverboardlabs.com.pathful.com
 0.0.0.0 www.hpqvvpfloatage.review
+0.0.0.0 www.hpvvn.com
 0.0.0.0 www.hpwtrpizecrowned.review
 0.0.0.0 www.hrfdpodunwarlike.review
 0.0.0.0 www.hrukxtcqmosaics.review
@@ -112970,6 +112983,7 @@
 0.0.0.0 www.pool7.moatads.com
 0.0.0.0 www.pool8.moatads.com
 0.0.0.0 www.pool9.moatads.com
+0.0.0.0 www.poolgmsd.com
 0.0.0.0 www.pop-under.xml.adx1.com
 0.0.0.0 www.pop.gmial.com
 0.0.0.0 www.popads.ero-advertising.com
@@ -113072,6 +113086,7 @@
 0.0.0.0 www.pushengage.com
 0.0.0.0 www.pushmejs.com
 0.0.0.0 www.pushrev.content-ad.net
+0.0.0.0 www.pushs.site
 0.0.0.0 www.pushspring.com
 0.0.0.0 www.pvcteegjdrecombine.review
 0.0.0.0 www.pwc.tidaltv.com
@@ -113728,6 +113743,7 @@
 0.0.0.0 www.susandavid.leadpages.co
 0.0.0.0 www.sutdio.glance.inmobi.com
 0.0.0.0 www.svastx.moatads.com
+0.0.0.0 www.svekolka.com
 0.0.0.0 www.swag.districtm.net
 0.0.0.0 www.swaggeredvflzknyhf.download
 0.0.0.0 www.sweeney.appboy.com
@@ -114165,6 +114181,7 @@
 0.0.0.0 www.vilynx.com
 0.0.0.0 www.vinceandjoesmarket.com
 0.0.0.0 www.vindicosuite.com
+0.0.0.0 www.vip-p0rtal.services
 0.0.0.0 www.vip.126.com
 0.0.0.0 www.vipadshares.com
 0.0.0.0 www.vipblogers.ru
