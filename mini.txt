@@ -23392,6 +23392,7 @@
 0.0.0.0 ad.valuecommerce.ne.jp
 0.0.0.0 ad.vcm.jp
 0.0.0.0 ad.ve.doubleclick.net
+0.0.0.0 ad.velomania.ru
 0.0.0.0 ad.videokit.org
 0.0.0.0 ad.vippers.jp
 0.0.0.0 ad.virtual-nights.com
