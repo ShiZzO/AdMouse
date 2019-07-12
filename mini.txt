@@ -34195,6 +34195,7 @@
 0.0.0.0 avrdpbiwvwyt.com
 0.0.0.0 avrdrpwt.com
 0.0.0.0 avres.net
+0.0.0.0 avro-beacon-production.wishabi.com
 0.0.0.0 avsads.com
 0.0.0.0 avstat.it
 0.0.0.0 avvfgiytnir.com
@@ -55608,7 +55609,6 @@
 0.0.0.0 flip.optimizely.com
 0.0.0.0 flipdigital.ru
 0.0.0.0 flipkart.d1.sc.omtrdc.net
-0.0.0.0 flipp.com
 0.0.0.0 flippermedia.go2cloud.org
 0.0.0.0 flippermedia.hasoffers.com
 0.0.0.0 flipy6sudy.com
