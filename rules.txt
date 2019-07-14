@@ -178,3 +178,4 @@
 ||svekolka.com^
 ||blaghfpd.com^
 ||poolgmsd.com^
+||status.bytemark.org^
