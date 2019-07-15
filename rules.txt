@@ -179,3 +179,4 @@
 ||blaghfpd.com^
 ||poolgmsd.com^
 ||status.bytemark.org^
+||stats.voog.com^
