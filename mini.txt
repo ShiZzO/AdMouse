@@ -44718,6 +44718,7 @@
 0.0.0.0 content.livesportmedia.eu
 0.0.0.0 content.liveuniverse.com
 0.0.0.0 content.mkt932.com
+0.0.0.0 content.mql5.com
 0.0.0.0 content.outbrain.com
 0.0.0.0 content.pendo.io
 0.0.0.0 content.pilot.silverpop.com
@@ -63009,6 +63010,7 @@
 0.0.0.0 img-origin.adtechus.com
 0.0.0.0 img-origin.prod.adtech.de
 0.0.0.0 img-origin.prod.adtechus.com
+0.0.0.0 img-perli.com
 0.0.0.0 img-sjc.wip.mediaplex.com
 0.0.0.0 img-us.stripcdn.com
 0.0.0.0 img.163.com
@@ -65504,6 +65506,7 @@
 0.0.0.0 joingengen.clickfunnels.com
 0.0.0.0 joinme.sp1.convertro.com
 0.0.0.0 jojilabola.com
+0.0.0.0 jojonewwss.pro
 0.0.0.0 jokedollars.com
 0.0.0.0 jokep.com
 0.0.0.0 jokers-banner.de
@@ -67040,6 +67043,7 @@
 0.0.0.0 krone.oewabox.at
 0.0.0.0 kropka.onet.pl
 0.0.0.0 kropka.tro.pl
+0.0.0.0 krotovroman.ru
 0.0.0.0 krovrhmqgupd.com
 0.0.0.0 krp.mxptint.net
 0.0.0.0 krpdqnnb.com
@@ -67247,6 +67251,7 @@
 0.0.0.0 kyivpost.redirect.traq.li
 0.0.0.0 kylin.gaeadata.com
 0.0.0.0 kylqpeevrkgh.com
+0.0.0.0 kymirasite.pro
 0.0.0.0 kyodonewsdigital-d.openx.net
 0.0.0.0 kyowarob.com
 0.0.0.0 kypivukypi.ru
@@ -96675,6 +96680,7 @@
 0.0.0.0 theteacherscorner.net.cdn.ezoic.net
 0.0.0.0 theteachingcompany.d1.sc.omtrdc.net
 0.0.0.0 thetechzone.us.intellitxt.com
+0.0.0.0 thethi.ru
 0.0.0.0 thethirsting.privy.com
 0.0.0.0 thetirerackinc.demdex.net
 0.0.0.0 thetradedesk-tags.s3.amazonaws.com
@@ -111867,6 +111873,7 @@
 0.0.0.0 www.imagine-inc.com
 0.0.0.0 www.imbof.com
 0.0.0.0 www.imces.inmobi.com
+0.0.0.0 www.img-perli.com
 0.0.0.0 www.imgclck.com
 0.0.0.0 www.imiclk.com
 0.0.0.0 www.impluviawtqydlbbi.download
@@ -112037,6 +112044,7 @@
 0.0.0.0 www.joelnhfuabrim.review
 0.0.0.0 www.johnfrieda.lisnr.com
 0.0.0.0 www.johnhaydon.leadpages.co
+0.0.0.0 www.jojonewwss.pro
 0.0.0.0 www.jollingymkovt.download
 0.0.0.0 www.jowarinzqmiak.download
 0.0.0.0 www.joymichellephotography.leadpages.co
@@ -112138,6 +112146,7 @@
 0.0.0.0 www.kqzyfj.com
 0.0.0.0 www.kreativci.marketing365.mk
 0.0.0.0 www.kronerrtyqgofq.download
+0.0.0.0 www.krotovroman.ru
 0.0.0.0 www.krullerkzouw.download
 0.0.0.0 www.kryptoads.com
 0.0.0.0 www.kryptobanners.com
@@ -112147,6 +112156,7 @@
 0.0.0.0 www.ktxtkvolitient.review
 0.0.0.0 www.kuku-yuan.blog.163.com
 0.0.0.0 www.kumma-hb.hb.adx1.com
+0.0.0.0 www.kymirasite.pro
 0.0.0.0 www.l.heatmap.it
 0.0.0.0 www.lab.braze.com
 0.0.0.0 www.lab.formats.unrulymedia.com
@@ -113864,6 +113874,7 @@
 0.0.0.0 www.theowgkkaj.download
 0.0.0.0 www.thepegeek.leadpages.co
 0.0.0.0 www.therisetothetop.leadpages.co
+0.0.0.0 www.thethi.ru
 0.0.0.0 www.thetrafficstat.net
 0.0.0.0 www.thewhizmarketing.com
 0.0.0.0 www.thicksetchrzcu.download
