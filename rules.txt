@@ -181,3 +181,4 @@
 ||status.bytemark.org^
 ||stats.voog.com^
 ||wp-r.github.io^
+||preis-analyse.com^
