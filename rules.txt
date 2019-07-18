@@ -182,4 +182,4 @@
 ||stats.voog.com^
 ||wp-r.github.io^
 ||preis-analyse.com^
-||admitad.com
+||admitad.com^
