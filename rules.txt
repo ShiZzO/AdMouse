@@ -180,3 +180,4 @@
 ||poolgmsd.com^
 ||status.bytemark.org^
 ||stats.voog.com^
+||wp-r.github.io^
