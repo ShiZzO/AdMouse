@@ -59980,6 +59980,7 @@
 0.0.0.0 hanzamedia-d.openx.net
 0.0.0.0 haostat.qihoo.com
 0.0.0.0 haphiterton.ru
+0.0.0.0 hapket.ru
 0.0.0.0 happenlabs.count.ly
 0.0.0.0 happer.info
 0.0.0.0 happilyswitching.net
@@ -64899,6 +64900,7 @@
 0.0.0.0 iznozhi.info
 0.0.0.0 izo.eu.qualtrics.com
 0.0.0.0 izooto.com
+0.0.0.0 izrelo.ru
 0.0.0.0 izrtyzjvarememberer.review
 0.0.0.0 iztsbnkxphnj.com
 0.0.0.0 iztxikfgw.com
@@ -111685,6 +111687,7 @@
 0.0.0.0 www.handworkedwguqhhqpj.download
 0.0.0.0 www.handyseek.com
 0.0.0.0 www.hankchin.leadpages.co
+0.0.0.0 www.hapket.ru
 0.0.0.0 www.harassedlyayeigwq.download
 0.0.0.0 www.hasoffers.com
 0.0.0.0 www.hastrk1.com
@@ -112011,6 +112014,7 @@
 0.0.0.0 www.ixzvhxrithripses.review
 0.0.0.0 www.iycmeworlds.review
 0.0.0.0 www.iyfnzgb.com
+0.0.0.0 www.izrelo.ru
 0.0.0.0 www.izrtyzjvarememberer.review
 0.0.0.0 www.ja.advertisercommunity.com
 0.0.0.0 www.ja.xhamser.com
