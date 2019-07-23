@@ -183,3 +183,4 @@
 ||wp-r.github.io^
 ||preis-analyse.com^
 ||admitad.com^
+||clckmedia.club^
