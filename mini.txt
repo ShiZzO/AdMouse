@@ -81180,6 +81180,7 @@
 0.0.0.0 plxnt.com
 0.0.0.0 plxserve.com
 0.0.0.0 plxtejszb.com
+0.0.0.0 plyfoni.ru
 0.0.0.0 plyftjxmrxrk.com
 0.0.0.0 plymouthgmc.qualtrics.com
 0.0.0.0 plzjcnyxcdl.com
@@ -109038,6 +109039,7 @@
 0.0.0.0 wp.alcmpn.com
 0.0.0.0 wp.hit.gemius.pl
 0.0.0.0 wp20171103.truconversion.com
+0.0.0.0 wpad.farm
 0.0.0.0 wpad.office.yext.com
 0.0.0.0 wpadmin.outbrain.com
 0.0.0.0 wpbhnyjej.com
@@ -113001,6 +113003,7 @@
 0.0.0.0 www.plug-media.com
 0.0.0.0 www.plus500.com
 0.0.0.0 www.pluto.mgr.consensu.org
+0.0.0.0 www.plyfoni.ru
 0.0.0.0 www.pmp.mxptint.net
 0.0.0.0 www.po.st
 0.0.0.0 www.pointroll.com
@@ -114391,6 +114394,7 @@
 0.0.0.0 www.worldupdates.in
 0.0.0.0 www.wouralistvdmttom.download
 0.0.0.0 www.wovxriqartworks.review
+0.0.0.0 www.wpad.farm
 0.0.0.0 www.wpmimkheartfelt.review
 0.0.0.0 www.wqdtzhdstabler.review
 0.0.0.0 www.wrackgdnkgwg.download
