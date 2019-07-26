@@ -181,7 +181,8 @@
 ||stats.voog.com^
 ||wp-r.github.io^
 ||preis-analyse.com^
-||admitad.com^
+||dadata.ru^
+||madwords.ru^
 ||clckmedia.club^
 ||anon-stats.eff.org^
 ||xxxporon.com^
