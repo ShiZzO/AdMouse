@@ -171,7 +171,6 @@
 ||poolgmsd.com^
 ||pushrase.com^
 ||afshp1.ru^
-||eti-code.com^
 ||froala.com^
 ||jewnsk.pro^
 ||tracker.tiu.ru^
@@ -184,3 +183,6 @@
 ||preis-analyse.com^
 ||admitad.com^
 ||clckmedia.club^
+||anon-stats.eff.org^
+||xxxporon.com^
+||dodofavomov.ru^
