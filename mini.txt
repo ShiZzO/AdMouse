@@ -48027,6 +48027,7 @@
 0.0.0.0 dacqmkmsjajm.com
 0.0.0.0 dad.adx1.com
 0.0.0.0 dadafilehost.com
+0.0.0.0 dadata.ru
 0.0.0.0 dadegid.ru
 0.0.0.0 dadi.technology
 0.0.0.0 dadllrpazourna.com
@@ -70245,6 +70246,7 @@
 0.0.0.0 madsuk.at.atwola.com
 0.0.0.0 madsuk.at.atwola.com.adcom.akadns.net
 0.0.0.0 madvertise.de
+0.0.0.0 madwords.ru
 0.0.0.0 madyna.ru
 0.0.0.0 maeas.voluumtrk.com
 0.0.0.0 maebtjn.com
@@ -94471,6 +94473,7 @@
 0.0.0.0 suggedin.info
 0.0.0.0 suggest.hotjar.com
 0.0.0.0 suggest.infospace.com
+0.0.0.0 suggestions.dadata.ru
 0.0.0.0 suggesttool.com
 0.0.0.0 sugh8yami.com
 0.0.0.0 sugoicounter.com
@@ -110925,6 +110928,7 @@
 0.0.0.0 www.d6ve.adx1.com
 0.0.0.0 www.dable.io
 0.0.0.0 www.dad.adx1.com
+0.0.0.0 www.dadata.ru
 0.0.0.0 www.daily-traffic.com
 0.0.0.0 www.dairyingsmorbjo.download
 0.0.0.0 www.dampnesscoczbh.download
@@ -112357,6 +112361,7 @@
 0.0.0.0 www.madmax53.stellar.cpa.clicksure.com
 0.0.0.0 www.madmimi.com
 0.0.0.0 www.madnet.ru
+0.0.0.0 www.madwords.ru
 0.0.0.0 www.magentanews.com
 0.0.0.0 www.magento.marketolive.com
 0.0.0.0 www.magento.xhamser.com
