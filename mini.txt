@@ -31515,6 +31515,7 @@
 0.0.0.0 anthonyperez.clickfunnels.com
 0.0.0.0 anti-cheat.info
 0.0.0.0 antiage.wildcom2.hop.clickbank.net
+0.0.0.0 antiblock.info
 0.0.0.0 antivirustoolext.com
 0.0.0.0 antotu.info
 0.0.0.0 antrtrtyzkhw.com
@@ -36862,6 +36863,7 @@
 0.0.0.0 bigchoicegroup.com
 0.0.0.0 bigclick.me
 0.0.0.0 bigclicks.com
+0.0.0.0 bigdate.biz
 0.0.0.0 bigdomain.in
 0.0.0.0 bigfatbaby.com
 0.0.0.0 bigfineads.com
@@ -53131,6 +53133,7 @@
 0.0.0.0 error.snackly.co
 0.0.0.0 error.videonow.ru
 0.0.0.0 errorcollect.hzgj.163.com
+0.0.0.0 errorreports.couponcabin.com
 0.0.0.0 errors-eu.imrworldwide.com
 0.0.0.0 errors.adwyze.com
 0.0.0.0 errors.client.optimizely.com
@@ -98037,6 +98040,7 @@
 0.0.0.0 track.life.ru
 0.0.0.0 track.linksynergy.com
 0.0.0.0 track.livestat.com
+0.0.0.0 track.loveandsex.biz
 0.0.0.0 track.mailerlite.com
 0.0.0.0 track.marinsm.com
 0.0.0.0 track.mdsmatch.com
@@ -102174,6 +102178,7 @@
 0.0.0.0 vashoot-reklam.rtb.adx1.com
 0.0.0.0 vashoot.com
 0.0.0.0 vashoot.rtb.adx1.com
+0.0.0.0 vasjoyredir.ru
 0.0.0.0 vaslssynz.com
 0.0.0.0 vassalagescafpum.download
 0.0.0.0 vast-advinteo.streamrail.net
@@ -110095,6 +110100,7 @@
 0.0.0.0 www.anonymousads.com
 0.0.0.0 www.answermedia.com
 0.0.0.0 www.answers.chartboost.com
+0.0.0.0 www.antiblock.info
 0.0.0.0 www.anurousxaeazghbz.download
 0.0.0.0 www.anvato-api-config.s3.amazonaws.com
 0.0.0.0 www.any.gs
@@ -110357,6 +110363,7 @@
 0.0.0.0 www.bidtellect.com.surveywall-api.survata.com
 0.0.0.0 www.bigad.com.au
 0.0.0.0 www.bigamypuabg.download
+0.0.0.0 www.bigdate.biz
 0.0.0.0 www.bigfastblog.com.pathful.com
 0.0.0.0 www.bigfatbaby.com
 0.0.0.0 www.biglinkext.xyz
@@ -114174,6 +114181,7 @@
 0.0.0.0 www.valuesponsor.com
 0.0.0.0 www.vangogher.glance.inmobi.com
 0.0.0.0 www.variedlyewebwd.download
+0.0.0.0 www.vasjoyredir.ru
 0.0.0.0 www.vassalagescafpum.download
 0.0.0.0 www.vast.doubleverify.com
 0.0.0.0 www.vast2.doubleverify.com
