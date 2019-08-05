@@ -5211,7 +5211,7 @@
 ||trk.kissmetrics.com^
 ||trk.largecast.com^
 ||trk.m.libero.it^
-||trk.mail.ru^
+||l-stat.livejournal.net^
 ||trk.mailtoward.com^
 ||trk.marketing4.de^
 ||trk.meacashtrk.com^
