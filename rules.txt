@@ -1004,6 +1004,7 @@
 ||counter.zone.ee^
 ||counter.ztgame.com^
 ||covivado.club^
+||crashlogs.whatsapp.net^
 ||crashlytics.com^
 ||dadata.ru^
 ||dodofavomov.ru^
