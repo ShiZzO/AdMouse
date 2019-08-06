@@ -680,6 +680,15 @@
 ||beacon.walmart.com^
 ||beacon.wikia-services.com^
 ||beacon.www.theguardian.com^
+||beacon2.indieclick.com^
+||beacon2.indieclicktv.com^
+||beacons.brandads.net^
+||beacons.extremereach.io^
+||beacons.gcp.gvt2.com^
+||beacons.gvt2.com^
+||beacons.helium.com^
+||beacons.hottraffic.nl^
+||beacons.mediamelon.com^
 ||blaghfpd.com^
 ||bttm.guru^
 ||bugsnag.com^
@@ -1204,6 +1213,7 @@
 ||js.wpnjs.com^
 ||jsblom.com^
 ||jumpjmp.com^
+||l-stat.livejournal.net^
 ||log.120ask.com^
 ||log.51cto.com^
 ||log.51network.com^
@@ -1612,6 +1622,7 @@
 ||matomo.airfind.com^
 ||matomo.anomic.de^
 ||matomo.cloud^
+||matomo.nic.it^
 ||matomo.org^
 ||mc.admetrica.ru^
 ||mc.adpia.vn^
@@ -2648,6 +2659,7 @@
 ||stat.freetool.it^
 ||stat.fromfactory.club^
 ||stat.funshion.net^
+||stat.gamy.ameba.jp^
 ||stat.ganbox.com^
 ||stat.gmonitor.aliimg.com^
 ||stat.googleanalysis.mobi^
@@ -2902,6 +2914,7 @@
 ||stats.askmen.com^
 ||stats.askmoses.com^
 ||stats.asp24.pl^
+||stats.atrl.co^
 ||stats.autohome.com.cn^
 ||stats.av.de^
 ||stats.avaaz.org^
@@ -2972,6 +2985,7 @@
 ||stats.clickforknowledge.com^
 ||stats.clicktracks.com^
 ||stats.clipprtv.com^
+||stats.cliqz.com^
 ||stats.cloud.online.net^
 ||stats.cloudwp.io^
 ||stats.cloxy.com^
@@ -3222,6 +3236,7 @@
 ||stats.netsolads.com^
 ||stats.news24.jp^
 ||stats.nextcloud.com^
+||stats.nic.it^
 ||stats.nicehash.com^
 ||stats.nomade.fr^
 ||stats.norton.com^
@@ -4093,6 +4108,7 @@
 ||track.rackvoluum.com^
 ||track.radins.com^
 ||track.radtracking.com^
+||track.raisingapps.com^
 ||track.reactionads.com^
 ||track.real2come.com^
 ||track.realitykings.com^
@@ -4109,6 +4125,7 @@
 ||track.resala1.com^
 ||track.reson8.com^
 ||track.revolvermarketing.ru^
+||track.richmediaads.com^
 ||track.right-ads.com^
 ||track.ringcentral.com^
 ||track.rocket10.com^
@@ -4159,6 +4176,7 @@
 ||track.sohu.com^
 ||track.solocpm.com^
 ||track.solosydney.com^
+||track.somewrite.jp^
 ||track.spankadoo.com^
 ||track.spankadoo.pl^
 ||track.spartamobile.com^
@@ -4457,6 +4475,7 @@
 ||tracker.invitemedia.com^
 ||tracker.iqnomy.com^
 ||tracker.issuu.com^
+||tracker.iws.vc^
 ||tracker.jcstracker.net^
 ||tracker.joost.com^
 ||tracker.junbi-tracker.com^
@@ -5211,7 +5230,6 @@
 ||trk.kissmetrics.com^
 ||trk.largecast.com^
 ||trk.m.libero.it^
-||l-stat.livejournal.net^
 ||trk.mailtoward.com^
 ||trk.marketing4.de^
 ||trk.meacashtrk.com^
@@ -5301,12 +5319,3 @@
 ||wp-r.github.io^
 ||xxxporon.com^
 ||yellst.icu^
-||beacon2.indieclick.com^
-||beacon2.indieclicktv.com^
-||beacons.brandads.net^
-||beacons.extremereach.io^
-||beacons.gcp.gvt2.com^
-||beacons.gvt2.com^
-||beacons.helium.com^
-||beacons.hottraffic.nl^
-||beacons.mediamelon.com^
