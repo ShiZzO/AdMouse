@@ -5301,3 +5301,12 @@
 ||wp-r.github.io^
 ||xxxporon.com^
 ||yellst.icu^
+||beacon2.indieclick.com^
+||beacon2.indieclicktv.com^
+||beacons.brandads.net^
+||beacons.extremereach.io^
+||beacons.gcp.gvt2.com^
+||beacons.gvt2.com^
+||beacons.helium.com^
+||beacons.hottraffic.nl^
+||beacons.mediamelon.com^
