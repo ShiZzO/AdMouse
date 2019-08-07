@@ -736,6 +736,7 @@
 ||cnt.xcounter.com^
 ||cnt.xhamster.com^
 ||cnt.zhaopin.com^
+||collector.fiverr.com^
 ||count.1133.cc^
 ||count.2ch.net^
 ||count.51yes.com^
