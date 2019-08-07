@@ -3048,6 +3048,7 @@
 ||stats.ellaism.org^
 ||stats.empowher.com^
 ||stats.engineseeker.com^
+||stat.enter-system.com^
 ||stats.epicurious.com^
 ||stats.ero-advertising.com^
 ||stats.esomniture.com^
