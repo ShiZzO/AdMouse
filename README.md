@@ -12,7 +12,7 @@
 
 About <b><a href="https://github.com/ammnt/Ammonite">865000 hosts</a></b> of adware, ransomware, malware and spyware, phishing and spam, CPA and redirect, fake and scam, advertising and banner networks, tracking and telemetry, analytics and metrics, adult and gambling, mining, cryptojacking and illegal pharmacy selling hosts. The file is updated regularly.
 
-<b>I recommend to use it ONLY together with <a href="https://1.1.1.1">Cloudflare DNS</a> over TLS (for upstream queries), <a href="https://kazoo.ga/pixelserv-tls/">Pixelserv-TLS</a> and <a href="https://adguard.com/en/welcome.html#products">AdGuard</a>.</b>
+<b>I recommend to use it ONLY together with <a href="https://adguard.com/en/adguard-dns/overview.html">AdGuard DNS</a> over TLS (for upstream queries), <a href="https://kazoo.ga/pixelserv-tls/">Pixelserv-TLS</a> and <a href="https://adguard.com/en/welcome.html#products">AdGuard</a>.</b>
 
 Feel free to sent me issues with false positive blocks and more domains which need to be blocked. Any feedback will be pleased!
 
