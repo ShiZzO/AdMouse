@@ -4,7 +4,7 @@
 
 <h1 align="center">Ammonite</h1>
 
-<p align="center">The repository contains hosts file for <a href="https://diversion.ch">Diversion</a>, <a href="https://pi-hole.net">Pi-hole</a>, <a href="https://adguard.com/en/adguard-home.html">AdGuard Home</a> and pfSense with pfBlockerNG.</p>
+<p align="center">The repository contains hosts file for <a href="https://diversion.ch">Diversion Lite</a>, <a href="https://pi-hole.net">Pi-hole</a>, <a href="https://adguard.com/en/adguard-home.html">AdGuard Home</a> and <a href="https://www.tecmint.com/install-configure-pfblockerng-dns-black-listing-in-pfsense/">pfSense with pfBlockerNG</a>.</p>
 
 ***
 
