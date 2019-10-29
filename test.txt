@@ -1,0 +1,12 @@
+
+
+################################[UPDATE]#################################
+# AD SERVERS START HERE
+0.0.0.0 www.zedo.com #[Adware.RaxSearch]
+0.0.0.0 zedo.com
+0.0.0.0 zedo.com
+0.0.0.0 test.zedo.com
+0.0.0.0 tm-awx.com #Trinity Mirror Midland Group
+:: 00005ik.rcomhost.com
+:: www.00005ik.rcomhost.com #[Adware.RaxSearch]
+:: test.00005ik.rcomhost.com 
