@@ -4,13 +4,13 @@
 
 <h1 align="center">Ammonite</h1>
 
-<p align="center">The repository contains hosts file for <a href="https://diversion.ch">Diversion Lite</a>, <a href="https://pi-hole.net">Pi-hole</a>, <a href="https://adguard.com/en/adguard-home.html">AdGuard Home</a> and <a href="https://www.tecmint.com/install-configure-pfblockerng-dns-black-listing-in-pfsense/">pfSense with pfBlockerNG</a>.</p>
+<p align="center">The repository contains <b>optimized hosts</b> file for <a href="https://diversion.ch">Diversion Lite</a>, <a href="https://pi-hole.net">Pi-hole</a>, <a href="https://adguard.com/en/adguard-home.html">AdGuard Home</a> and <a href="https://www.tecmint.com/install-configure-pfblockerng-dns-black-listing-in-pfsense/">pfSense with pfBlockerNG</a>.</p>
 
 ***
 
 # Description:
 
-About <b><a href="https://raw.githubusercontent.com/LazyAspect/Ammonite/master/hosts">864000 hosts</a></b> of adware, ransomware, malware and spyware, phishing and spam, CPA and redirect, fake and scam, advertising and banner networks, tracking and telemetry, analytics and metrics, adult and gambling, mining, cryptojacking and illegal pharmacy selling hosts. The file is updated regularly.
+About <b><a href="https://lazyaspect.github.io/Ammonite/hosts">864000 hosts</a></b> of adware, ransomware, malware and spyware, phishing and spam, CPA and redirect, fake and scam, advertising and banner networks, tracking and telemetry, analytics and metrics, adult and gambling, mining, cryptojacking and illegal pharmacy selling hosts. The file is updated regularly.
 
 <b>I recommend to use it ONLY together with <a href="https://adguard.com/en/adguard-dns/overview.html">AdGuard DNS</a> over TLS (for upstream queries) and <a href="https://adguard.com/en/welcome.html#products">AdGuard</a>.</b>
 
