@@ -4,7 +4,7 @@
 
 <h1 align="center">Ammonite Filter</h1>
 
-<p align="center">The repository contains <b>optimized</b> filter for <a href="https://diversion.ch">Diversion Lite</a>, <a href="https://pi-hole.net">Pi-hole</a>, <a href="https://adguard.com/en/adguard-home.html">AdGuard Home</a> and <a href="https://www.tecmint.com/install-configure-pfblockerng-dns-black-listing-in-pfsense/">pfSense with pfBlockerNG</a>.</p>
+<p align="center">The repository contains blocking list for <a href="https://diversion.ch">Diversion Lite</a>, <a href="https://pi-hole.net">Pi-hole</a>, <a href="https://adguard.com/en/adguard-home.html">AdGuard Home</a> and <a href="https://www.tecmint.com/install-configure-pfblockerng-dns-black-listing-in-pfsense/">pfSense with pfBlockerNG</a>.</p>
 
 ***
 
