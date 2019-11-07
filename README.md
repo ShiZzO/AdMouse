@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://lazyaspect.github.io/Ammonite/ammonite_logo.png" />
+<img src="https://raw.githubusercontent.com/LazyAspect/Ammonite/master/2.png" />
 </p>
 
 <h1 align="center">Ammonite</h1>
