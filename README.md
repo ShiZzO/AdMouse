@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://lazyaspect.github.io/Ammonite/ammnt_logo.png" />
+<img src="https://raw.githubusercontent.com/LazyAspect/Ammonite/master/ammnt_logo.png" />
 </p>
 
 <h1 align="center">Ammonite</h1>
@@ -10,7 +10,7 @@
 
 # Description:
 
-The repository contains a<b><a href="https://lazyaspect.github.io/Ammonite/filter.txt">Filter</a></b>that blocks of adware, ransomware, malware and spyware, phishing and spam, CPA and redirect, fake and scam, advertising and banner networks, tracking and telemetry, analytics and metrics, adult and gambling, chats and push notifications, mining, cryptojacking and illegal pharmacy selling domains. The file is updated regularly.
+This repository contains the <b><a href="https://lazyaspect.github.io/Ammonite/filter.txt">Filter</a></b> that blocks of adware, ransomware, malware and spyware, phishing and spam, CPA and redirect, fake and scam, advertising and banner networks, tracking and telemetry, analytics and metrics, adult and gambling, chats and push notifications, mining, cryptojacking and illegal pharmacy selling domains. The file is updated regularly.
 
 <b>I recommend to use it ONLY together with <a href="https://adguard.com/en/adguard-dns/overview.html">AdGuard DNS</a> over TLS (for upstream queries) and <a href="https://adguard.com/en/welcome.html#products">AdGuard</a>.</b>
 
