@@ -4,13 +4,13 @@
 
 <h1 align="center">Ammonite Filter (beta)</h1>
 
-<p align="center">The repository contains filter for <a href="https://adguard.com/en/adguard-home.html">AdGuard Home</a></p>
+<p align="center">The extended filter for <a href="https://adguard.com/en/adguard-home.html">AdGuard Home</a></p>
 
 ***
 
 # Description:
 
-This repository contains the beta version of <b><a href="https://lazyaspect.github.io/Ammonite/filter.txt">filter</a></b> that blocks of adware, ransomware, malware and spyware, phishing and spam, CPA and redirect, fake and scam, advertising and banner networks, tracking and telemetry, analytics and metrics, adult and gambling, chats and push notifications, mining, cryptojacking and illegal pharmacy selling domains. The file is updated regularly.
+This repository contains beta version of the <b><a href="https://lazyaspect.github.io/Ammonite/filter.txt">extended filter</a></b> that blocks of adware, ransomware, malware and spyware, phishing and spam, CPA and redirect, fake and scam, advertising and banner networks, tracking and telemetry, analytics and metrics, adult and gambling, chats and push notifications, mining, cryptojacking and illegal pharmacy selling domains. The file is updated regularly.
 
 <b>I recommend using it ONLY together with <a href="https://adguard.com/en/adguard-dns/overview.html">AdGuard DNS</a> over TLS (for upstream queries) and <a href="https://adguard.com/en/welcome.html#products">AdGuard</a>.</b>
 
