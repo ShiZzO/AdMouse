@@ -4,7 +4,7 @@
 
 <h1 align="center">Ammonite Filter (beta)</h1>
 
-<p align="center">The repository contains filter for <a href="https://adguard.com/en/adguard-home.html">AdGuard Home</a>.</p>
+<p align="center">The repository contains filter for <a href="https://adguard.com/en/adguard-home.html">AdGuard Home</a></p>
 
 ***
 
