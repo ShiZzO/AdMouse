@@ -20,6 +20,5 @@ If you use Xbox Live, then these domains have to be whitelisted or you will not 
 
 - v10.vortex-win.data.microsoft.com
 - v20.vortex-win.data.microsoft.com
-- mobile.pipe.aria.microsoft.com
 - v10.events.data.microsoft.com
 - v20.events.data.microsoft.com
