@@ -12,13 +12,6 @@
 
 This repository contains beta version of the <b><a href="https://raw.githubusercontent.com/LazyAspect/Ammonite/master/filter.txt">extended filter</a></b> that blocks of adware, ransomware, malware and spyware, phishing and spam, CPA and redirect, fake and scam, advertising and banner networks, tracking and telemetry, analytics and metrics, adult and gambling, chats and push notifications, mining, cryptojacking and illegal pharmacy selling domains. The file is updated regularly.
 
-<b>Feel free to contact me with false positive blocks and more domains which need to be blocked.</b>
-
 # Note:
 
-If you use Xbox Live, then these domains have to be whitelisted or you will not get achievements:
-
-- v10.vortex-win.data.microsoft.com
-- v20.vortex-win.data.microsoft.com
-- v10.events.data.microsoft.com
-- v20.events.data.microsoft.com
+<b>Feel free to contact me with false positive blocks and more domains which need to be blocked.</b>
