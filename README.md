@@ -14,4 +14,4 @@ This repository contains beta version of the <b><a href="https://raw.githubuserc
 
 # Note:
 
-<b>Feel free to contact me with false positive blocks and more domains which need to be blocked.</b>
+Feel free to contact me with false positive blocks and more domains which need to be blocked.
