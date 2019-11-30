@@ -10,7 +10,7 @@
 
 # Description:
 
-This repository contains beta version of the <b><a href="https://raw.githubusercontent.com/LazyAspect/Ammonite/master/filter.txt">extended filter</a></b> that blocks of adware, ransomware, malware and spyware, phishing and spam, CPA and redirect, fake and scam, advertising and banner networks, tracking and telemetry, analytics and metrics, adult and gambling, chats and push notifications, mining, cryptojacking and illegal pharmacy selling domains. The file is updated regularly.
+This repository contains beta version of the <b><a href="https://ammnt.com/filter.txt">extended filter</a></b> that blocks of adware, ransomware, malware and spyware, phishing and spam, CPA and redirect, fake and scam, advertising and banner networks, tracking and telemetry, analytics and metrics, adult and gambling, chats and push notifications, mining, cryptojacking and illegal pharmacy selling domains. The file is updated regularly.
 
 # Note:
 
