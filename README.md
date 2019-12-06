@@ -14,4 +14,4 @@ This repository contains the <b><a href="https://ammnt.com/filter.txt">extended 
 
 # Note:
 
-Feel free to contact me with false positive blocks and more domains which need to be blocked.
+Feel free to <a href="https://t.me/LazyAspect">contact</a> me with false positive blocks and more domains which need to be blocked.
