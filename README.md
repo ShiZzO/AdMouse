@@ -14,4 +14,4 @@ This repository contains beta version of the <b><a href="https://ammnt.com/filte
 
 # Note:
 
-Feel free to <b>contact me</b> with false positive blocks and more domains which need to be blocked.
+Feel free to contact me with false positive blocks and more domains which need to be blocked.
