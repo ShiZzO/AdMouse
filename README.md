@@ -4,7 +4,7 @@
 
 <h1 align="center">Ammonite Filter</h1>
 
-<p align="center">The extended and optimized filter for <a href="https://adguard.com/en/adguard-home.html">AdGuard Home</a></p>
+<p align="center">The extended and optimized filter for <a href="https://adguard.com/en/adguard-home.html"><b>AdGuard Home</b></a></p>
 
 ***
 
@@ -23,4 +23,4 @@ Also this list blocks many spam, adult, gambling and illegal pharmacy selling ho
 
 ## Note
 
-My filter is optimized for use <b>ONLY</b> in <b><a href="https://github.com/AdguardTeam/AdGuardHome">AdGuard Home</a></b>. Please do not convert it to hosts or Pi-hole syntaxes! Feel free to contact me with false positive blocks and more domains which need to be blocked.
+My filter is optimized for use <b><u>ONLY</u></b> in <b><a href="https://github.com/AdguardTeam/AdGuardHome">AdGuard Home</a></b>. Please do not convert it to hosts or Pi-hole syntaxes! Feel free to contact me with false positive blocks and more domains which need to be blocked.
