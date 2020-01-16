@@ -10,7 +10,7 @@
 
 # Description:
 
-This repository contains my own <b><a href="https://ammnt.com/filter.txt">extended filter</a></b> for <a href="https://adguard.com/en/adguard-home.html">AdGuard Home</a></p> that blocks:
+This repository contains my own <b><a href="https://ammnt.com/filter.txt">extended filter</a></b> for AdGuard Home that blocks:
 - Adware, spyware, malware and ransomware domains and their subdomains;
 - Phishing, fraud, fake and scam hosts and their subdomains;
 - Advertising, CPA, redirect and banner networks domains and their subdomains;
