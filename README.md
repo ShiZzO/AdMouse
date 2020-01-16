@@ -13,9 +13,9 @@
 This repository contains my own <b><a href="https://ammnt.com/filter.txt">extended filter</a></b> for AdGuard Home that blocks:
 - Adware, spyware, malware and ransomware domains and their subdomains;
 - Phishing, fraud, fake and scam hosts and their subdomains;
-- Advertising, CPA, redirect and banner networks domains and their subdomains;
+- Advertising, CPA and banner networks domains and their subdomains;
 - Tracking and telemetry hosts and their subdomains;
-- Analytics, CNAME cloacking and metrics domains and their subdomains;
+- CNAME cloacking, analytics and metrics domains and their subdomains;
 - Chat and push notification services hosts and their subdomains;
 - Mining and cryptojacking domains and their subdomains.
 
