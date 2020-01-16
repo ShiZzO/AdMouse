@@ -8,7 +8,7 @@
 
 ***
 
-# Description
+# Description:
 
 This repository contains my own <b><a href="https://ammnt.com/filter.txt">filter</a></b> for AdGuard Home that blocks:
 - Adware, spyware, malware and ransomware domains and their subdomains;
@@ -21,6 +21,6 @@ This repository contains my own <b><a href="https://ammnt.com/filter.txt">filter
 
 Also this list blocks many spam, adult, gambling and illegal pharmacy selling hosts. You can use it any way you want. The file is updated regularly.
 
-## Note
+## Note:
 
-My filter is optimized for use <b>ONLY</b> in <b><a href="https://github.com/AdguardTeam/AdGuardHome">AdGuard Home</a></b>. Please do not convert it to hosts or Pi-hole syntaxes! Feel free to contact me with false positive blocks and more domains which need to be blocked.
+My filter is optimized for use <b>ONLY</b> in <b><a href="https://github.com/AdguardTeam/AdGuardHome">AdGuard Home</a></b>. Please do not convert it to hosts or Pi-hole syntaxes! Feel free to <b><a href="https://t.me/LazyAspect">contact me</a></b> with false positive blocks and more domains which need to be blocked.
