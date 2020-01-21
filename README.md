@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://ammnt.com/ammnt_logo.png" />
+<img src="https://raw.githubusercontent.com/ammnt/Ammonite/master/ammnt_logo.png" />
 </p>
 
 <h1 align="center">Ammonite Filter</h1>
