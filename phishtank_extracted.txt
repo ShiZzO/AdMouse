@@ -201,7 +201,6 @@
 0.0.0.0 actiie844.coffeecup.com
 0.0.0.0 action.c0rni.com
 0.0.0.0 activ-dentify-notfy-recovre-centeefg.com
-0.0.0.0 active.by
 0.0.0.0 actualiza-banruralgt.com
 0.0.0.0 adammamrot.pl
 0.0.0.0 adcomm.oparaeleke.net
