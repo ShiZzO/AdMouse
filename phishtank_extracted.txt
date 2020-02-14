@@ -350,7 +350,6 @@
 0.0.0.0 anne-melandie.firebaseapp.com
 0.0.0.0 annekedekoning.com
 0.0.0.0 announce.com.au
-0.0.0.0 anon.to
 0.0.0.0 antara.ws
 0.0.0.0 antaresns.com
 0.0.0.0 anthonytalks.com
@@ -400,7 +399,6 @@
 0.0.0.0 apple.com.uk-findmy.info
 0.0.0.0 appleid.apple.com-sign.kvhw8ma.work
 0.0.0.0 appleid.apple.com-signtoupdate.kvhw8ma.work
-0.0.0.0 appleid.apple.com.akadns.net
 0.0.0.0 appleid.reset-apple.com
 0.0.0.0 applepaymentpartner.com
 0.0.0.0 appletonlawillinois.com
@@ -635,7 +633,6 @@
 0.0.0.0 birrasalentoshop.it
 0.0.0.0 birtehorn.de
 0.0.0.0 births.cloudns.asia
-0.0.0.0 bit.do
 0.0.0.0 bitmex.org.ru
 0.0.0.0 bittyurl.co
 0.0.0.0 bizappmate.com
@@ -976,7 +973,6 @@
 0.0.0.0 cp14.machighway.com
 0.0.0.0 cpacontabilidade.com.br
 0.0.0.0 cpasupply.cpavision.mx
-0.0.0.0 cpc.cx
 0.0.0.0 cpccivils-my.sharepoint.com
 0.0.0.0 cpi-automation.ch
 0.0.0.0 crackeur.com
@@ -1021,7 +1017,6 @@
 0.0.0.0 customerservicesupport.my-free.website
 0.0.0.0 customtllc.com
 0.0.0.0 cutekasia.com
-0.0.0.0 cutt.ly
 0.0.0.0 cvecarabaccara.com
 0.0.0.0 cvputrapratama.id
 0.0.0.0 cw.webindustry.com
@@ -1645,7 +1640,6 @@
 0.0.0.0 groupmatrix-my.sharepoint.com
 0.0.0.0 grp01.id.rakuten.co.jp.eb63cdd1ed484f3b090f9fe7535481959de07c83.info
 0.0.0.0 grrasawstraining.com
-0.0.0.0 gru.cc
 0.0.0.0 grup0banc0lombia.webcindario.com
 0.0.0.0 grupoeme.ind.br
 0.0.0.0 grupoexito.ml
@@ -1761,7 +1755,6 @@
 0.0.0.0 hphotel-my.sharepoint.com
 0.0.0.0 hs-4350801.t.hubspotemail.net
 0.0.0.0 hs-giveaways.ca
-0.0.0.0 ht.ly
 0.0.0.0 htl.li
 0.0.0.0 htmlfreecodes.com
 0.0.0.0 https-bksonline.webcindario.com
@@ -1946,7 +1939,6 @@
 0.0.0.0 iwocs.com
 0.0.0.0 ixpo.reco.sk
 0.0.0.0 iy9erpxzoaz.appspot.com
-0.0.0.0 j.gs
 0.0.0.0 j3060z7403.codesandbox.io
 0.0.0.0 j965rtpdfxoz.appspot.com
 0.0.0.0 jacintomontu.com
@@ -2710,7 +2702,6 @@
 0.0.0.0 nubankclientes.com
 0.0.0.0 nubankcontaonline.com
 0.0.0.0 nucartao.com
-0.0.0.0 num.to
 0.0.0.0 numeroapps.in
 0.0.0.0 nuvemexim.com
 0.0.0.0 nxvtru74gfd.fra1.digitaloceanspaces.com
@@ -3227,7 +3218,6 @@
 0.0.0.0 resgatepontos.com.br.cu26810.tmweb.ru
 0.0.0.0 restaurantelabarquita.com
 0.0.0.0 retsl.es
-0.0.0.0 reurl.cc
 0.0.0.0 revenueemployementinterac.com
 0.0.0.0 revitalusweetdreams.com
 0.0.0.0 revolutionpropertiesllc.com
@@ -3628,7 +3618,6 @@
 0.0.0.0 speed-dating.it
 0.0.0.0 spelectric.co.in
 0.0.0.0 spiritofmambo.fr
-0.0.0.0 split.to
 0.0.0.0 sportbeclick.com
 0.0.0.0 sportivo-merchandise.com.au
 0.0.0.0 spotify.vg
@@ -3748,7 +3737,6 @@
 0.0.0.0 supptdata.000webhostapp.com
 0.0.0.0 suraseyidova.com
 0.0.0.0 surfacespa.com
-0.0.0.0 surl.me
 0.0.0.0 suroyalost.id
 0.0.0.0 survey.zohopublic.com
 0.0.0.0 surveyabincol.it
@@ -3781,7 +3769,6 @@
 0.0.0.0 systems.cloudaccess.host
 0.0.0.0 szybkapak4you.eu
 0.0.0.0 t.genovesevanderhoof.com
-0.0.0.0 t.umblr.com
 0.0.0.0 taijishentie.com
 0.0.0.0 takebag.idv.tw
 0.0.0.0 taksi-econom.ru
@@ -3880,8 +3867,6 @@
 0.0.0.0 tiptoptravel.co
 0.0.0.0 tiseopavingco-my.sharepoint.com
 0.0.0.0 tlcmgmt-my.sharepoint.com
-0.0.0.0 tny.im
-0.0.0.0 tny.sh
 0.0.0.0 toabsuwu93d.app.link
 0.0.0.0 toancaupumps.com
 0.0.0.0 toanhoc247.edu.vn
