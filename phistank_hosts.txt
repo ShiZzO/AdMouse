@@ -1247,7 +1247,6 @@
 0.0.0.0 fbapps.youtubefullvideos.com
 0.0.0.0 fbautoreactions.com
 0.0.0.0 fbk2023.com2020w2122page311312-item-ad22h664.xyz
-0.0.0.0 fbwat.ch
 0.0.0.0 fccca.com.ar
 0.0.0.0 fclighting.sharepoint.com
 0.0.0.0 fdyf5.app.link
