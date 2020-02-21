@@ -8200,7 +8200,6 @@
 0.0.0.0 positivedoctor.com
 0.0.0.0 posnaker.org
 0.0.0.0 post-onlineservice.eu
-0.0.0.0 post.spmailtechn.com
 0.0.0.0 poste-securelogin.servemp3.com
 0.0.0.0 postfacto.app
 0.0.0.0 postfinance-checkout.ch

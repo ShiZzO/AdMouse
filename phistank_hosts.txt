@@ -365,7 +365,6 @@
 0.0.0.0 apple.com.uk-findmy.info
 0.0.0.0 appleid.apple.com-sign.kvhw8ma.work
 0.0.0.0 appleid.apple.com-signtoupdate.kvhw8ma.work
-0.0.0.0 appleid.apple.com.akadns.net
 0.0.0.0 applepaymentpartner.com
 0.0.0.0 appnubankonlinee.joomla.com
 0.0.0.0 appriver3651009433-my.sharepoint.com
@@ -3426,7 +3425,6 @@
 0.0.0.0 tuliving.com.ar
 0.0.0.0 turboflightpros.com
 0.0.0.0 tutors.com.pk
-0.0.0.0 twitter.com
 0.0.0.0 twowheelcool.com
 0.0.0.0 txtzap.com
 0.0.0.0 ty364tsdsaf.appspot.com
