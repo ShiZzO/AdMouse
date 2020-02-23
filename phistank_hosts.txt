@@ -35,7 +35,6 @@
 0.0.0.0 180501899489449-dot-hj8-dmc-w90.appspot.com
 0.0.0.0 189.109.70.34.bc.googleusercontent.com
 0.0.0.0 1camp.org
-0.0.0.0 1drv.ms
 0.0.0.0 1oneand1one.jetestjerecomande.net
 0.0.0.0 1rgrkuqdgs1uet9s5xnxjjsbp.designmysite.pro
 0.0.0.0 1stnavalalliance.com
