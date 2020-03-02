@@ -2387,7 +2387,6 @@
 0.0.0.0 one-usan.web.app
 0.0.0.0 oneaim.lu
 0.0.0.0 onedocsb.atwebpages.com
-0.0.0.0 onedrive.live.com
 0.0.0.0 ongciaspo.cl
 0.0.0.0 oninet.al
 0.0.0.0 onion24.online
