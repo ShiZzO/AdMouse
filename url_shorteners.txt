@@ -57,6 +57,7 @@ biglnk.com
 binged.it
 bit.do
 bit.ly
+bittyurl.co
 bizj.us
 bizy.be
 bizz.cc
@@ -76,6 +77,7 @@ chzb.gr
 cl.lk
 clck.ru
 cli.gs
+cli.re
 cliccami.info
 clickthru.ca
 clik.cc
@@ -93,6 +95,7 @@ ctvr.us
 cut.by
 cutt.ly
 cutt.us
+d.pr
 d3c.co
 dai.ly
 decenturl.com
@@ -145,6 +148,7 @@ fwd4.me
 fwib.net
 g.ro.lt
 gentleurl.net
+gg.gg
 gizmo.do
 gl.am
 gli.im
@@ -409,6 +413,7 @@ surl.hu
 surl.me
 t.co
 t.lh.com
+t.ly
 t.me
 t.umblr.com
 ta.gd
@@ -505,9 +510,11 @@ vb.ly
 vgn.am
 viewista.com
 virl.com
+vk.cc
 vl.am
 vm.lc
 vs0.net
+w.url.cn
 w0p.de
 w55.de
 wa.me
