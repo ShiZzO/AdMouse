@@ -4115,7 +4115,6 @@
 0.0.0.0 tv-magazineluiza.ns0.it
 0.0.0.0 tvdwx.weblium.site
 0.0.0.0 twdbadies.ga
-0.0.0.0 twitter.com
 0.0.0.0 twojapaczkapl.com
 0.0.0.0 twowheelcool.com
 0.0.0.0 txtzap.com
