@@ -1,8 +1,8 @@
 <p align="center">
-<img src="https://raw.githubusercontent.com/ammnt/Ammonite/master/ammnt_logo.png" />
+<img src="https://raw.githubusercontent.com/ammnt/AmmoniteFilter/master/ammnt_logo.png" />
 </p>
 
-<h1 align="center">AmmoniteFilter (beta)</h1>
+<h1 align="center">AmmoniteFilter</h1>
 
 <p align="center">The extended and optimized filter for <a href="https://adguard.com/en/adguard-home.html"><b>AdGuard Home</b></a></p>
 
@@ -10,7 +10,7 @@
 
 # Description:
 
-This repository contains the beta version of my own <b><a href="https://ammnt.com/filter.txt">filter</a></b> for AdGuard Home that blocks:
+This repository contains of my own <b><a href="https://ammnt.com/filter.txt">filter</a></b> for AdGuard Home that blocks:
 - Adware, spyware, malware and ransomware domains and their subdomains;
 - Phishing, fraud, fake and scam hosts and their subdomains;
 - Advertising, CPA and banner networks domains and their subdomains;
@@ -23,4 +23,4 @@ Also this list blocks many spam, adult, gambling and illegal pharmacy selling ho
 
 ## Note:
 
-My filter is optimized for use <b>ONLY</b> in <b><a href="https://github.com/AdguardTeam/AdGuardHome">AdGuard Home</a></b>. Please do not convert it to hosts or Pi-hole syntaxes! Feel free to <b><a href="https://t.me/LazyAspect">contact me</a></b> with false positive blocks and more domains which need to be blocked.
+My filter is optimized for use <b>ONLY</b> in <b><a href="https://github.com/AdguardTeam/AdGuardHome">AdGuard Home</a></b>. Please do not convert it to hosts or Pi-hole syntaxes! Feel free to contact me with false positive blocks and more domains which need to be blocked.
