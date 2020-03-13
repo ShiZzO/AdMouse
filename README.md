@@ -2,9 +2,7 @@
 <img src="https://raw.githubusercontent.com/ammnt/AmmoniteFilter/master/ammnt_logo.png" />
 </p>
 
-<h1 align="center">AmmoniteFilter</h1>
-
-<p align="center">The extended and optimized filter for <a href="https://adguard.com/en/adguard-home.html"><b>AdGuard Home</b></a></p>
+<h1 align="center">The extended and optimized filter for <a href="https://adguard.com/en/adguard-home.html"><b>AdGuard Home</b></a></h1>
 
 ***
 
