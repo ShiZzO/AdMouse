@@ -19,4 +19,4 @@ Also this list blocks many spam, adult, gambling and illegal pharmacy selling ho
 
 ## Note:
 
-My filter is optimized for use <b>ONLY</b> in <b><a href="https://github.com/AdguardTeam/AdGuardHome">AdGuard Home</a></b>. Please do not convert it to hosts or Pi-hole syntaxes! Feel free to contact me with false positive blocks and more domains which need to be blocked.
+My filter is optimized for use <b>ONLY</b> in <b><a href="https://github.com/AdguardTeam/AdGuardHome">AdGuard Home</a></b>. I also recommend using it with <b><a href="https://adguard.com/en/adguard-dns/overview.html">AdGuard DNS</a></b> or <b><a href="https://github.com/AdguardTeam/AdGuardSDNSFilter">AdGuard Simplified Domain Names filter</a></b>. Please do not convert it to hosts or Pi-hole syntaxes! Feel free to contact me with false positive blocks and more domains which need to be blocked.
