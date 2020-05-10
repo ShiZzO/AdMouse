@@ -6,7 +6,7 @@
 
 # Description:
 
-This repository contains of my own <b><a href="https://ammnt.app/filter.txt">familty filter</a></b> for <b><a href="https://adguard.com/en/adguard-home.html">AdGuard Home</a></b> that blocks:
+This repository contains of my own <b><a href="https://ammnt.app/filter.txt">family filter</a></b> for <b><a href="https://adguard.com/en/adguard-home.html">AdGuard Home</a></b> that blocks:
 - Adware, spyware, malware and ransomware domains and their subdomains;
 - Phishing, fraud, fake and scam hosts and their subdomains;
 - Advertising, CPA and banner networks domains and their subdomains;
