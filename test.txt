@@ -1,9 +1,3 @@
-!
-! Title: Test
-! Homepage: https://ammnt.app
-! Last modified: 2020-05-15
-! Description: The extended and optimized family filter for AdGuard Home
-!
 /porn/
 /bongacams/
 /casino/
