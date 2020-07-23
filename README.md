@@ -15,7 +15,7 @@ This repository contains of my own <b><a href="https://ammnt.app/filter.txt">fam
 - Phishing, fraud, fake and scam hosts and their subdomains💩
 - Mining, cryptojacking and malicious domains and their subdomains⛏
 
-Also this list blocks many spam, adult, gambling and illegal pharmacy selling hosts🚀You can use it any way you want, but i recommend using it with the desktop versions of <b><a href="https://adguard.com/en/adguard-mac/overview.html">AdGuard</a></b>🛡The file will be updated regularly⚠️
+Also, this list blocks much spam, adult, gambling and illegal pharmacy selling hosts🚀You can use it any way you want, but I recommend using it with the desktop versions of <b><a href="https://adguard.com/en/adguard-mac/overview.html">AdGuard</a></b>🛡The file will be updated regularly⚠️
 
 ## Note:
 
