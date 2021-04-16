@@ -29,6 +29,7 @@
 2big.at
 2doc.net
 2fear.com
+2no.co
 2pl.us
 2tr.net
 2tu.us
@@ -336,6 +337,7 @@ ewe1.com
 eweri.com
 ewerl.com
 ex9.co
+ezstat.ru
 ezurl.cc
 fa.b
 fa.by
