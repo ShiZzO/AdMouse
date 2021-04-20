@@ -616,6 +616,7 @@ linksafe.me
 linksave.in
 linksave.net
 linkto.im
+linktr.ee
 liteurl.com
 liurl.cn
 livestre.am
