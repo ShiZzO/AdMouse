@@ -6,7 +6,7 @@
 
 # Description:
 
-This repository contains of my own <b><a href="https://ammnt.app/filter.txt">family filter</a></b> for <b><a href="https://adguard.com/en/adguard-home.html">AdGuard Home</a></b> that blocks:
+This repository contains my own <b><a href="https://ammnt.app/filter.txt">family filter</a></b> for <b><a href="https://adguard.com/en/adguard-home.html">AdGuard Home</a></b> that blocks:
 - Advertising, CPA and banner networks domains and their subdomains☂️
 - Tracking and telemetry hosts and their subdomains📡
 - CNAME cloacking, analytics and metrics domains and their subdomains🕵️‍♂️
