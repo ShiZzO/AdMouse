@@ -15,8 +15,8 @@ This repository contains my own <b><a href="https://ammnt.app/filter.txt">family
 - Phishing, fraud, fake and scam hosts and their subdomains💩
 - Mining, cryptojacking and malicious domains and their subdomains⛏
 
-Also, this list blocks much spam, adult, gambling and illegal pharmacy selling hosts🔞You can use it any way you want, but I recommend using it with the desktop versions of <b><a href="https://adguard.com/en/adguard-mac/overview.html">AdGuard</a></b>🛡The file will be updated regularly⚠️
+Also, this list blocks much spam, adult, gambling and illegal pharmacy selling hosts🔞You can use it any way you want. The file will be updated regularly⚠️
 
 ## Note:
 
-My filter is optimized for use <b>ONLY</b> in <b><a href="https://github.com/AdguardTeam/AdGuardHome">AdGuard Home</a></b>🛸Please do not convert it to hosts, dnsmasq, BIND, Squid or RPZ syntaxes⛔️Feel free to <b><a href="mailto:contact@ammnt.app">contact me</a></b> with false positive blocks and more domains which need to be blocked🙋🏻‍♂️
+My filter is optimized for use <b>ONLY</b> in <b><a href="https://github.com/AdguardTeam/AdGuardHome">AdGuard Home</a></b>🛡️Please do not convert it to hosts, dnsmasq, BIND, Squid or RPZ syntaxes⛔️Feel free to <b><a href="mailto:contact@ammnt.app">contact me</a></b> with false positive blocks and more domains which need to be blocked🙋🏻‍♂️
