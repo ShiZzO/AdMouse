@@ -638,6 +638,7 @@ lnk.sk
 lnkd.in
 lnked.in
 lnks.fr
+lnks.gd
 lnkurl.com
 lnp.sn
 lnq.me
